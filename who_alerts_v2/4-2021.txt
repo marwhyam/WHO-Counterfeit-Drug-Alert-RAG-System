@@ -1,0 +1,48 @@
+ALERT NUMBER: 4/2021
+DRUG NAME: remdesivir
+ALERT TYPE: falsified
+DATE: 13 August 2021
+COUNTRIES: Mexico
+WHO REGIONS: AMRO
+SOURCE URL: https://www.who.int/news/item/13-08-2021-medical-product-alert-n-4-2021-falsified-remdesivir
+TITLE: 13 August 2021Medical product alertMedical Product Alert N°4/2021: Falsified remdesivir
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to two batches of falsified remdesivir injection 100mg/20ml (5mg/ml)
+identified in the WHO Region of the Americas and reported to WHO in July 2021. These products claim to be
+manufactured by GILEAD. However, GILEAD has confirmed that the remdesivir products listed in this alert are
+falsified and were not manufactured by them. These falsified products have been reported at the patient level
+(including at a hospital) in Mexico and are illicitly supplied on the internet.
+Remdesivir is a broad-spectrum antiviral medication that was approved or authorized for emergency use to treat
+COVID-19 in several countries. In November 2020, WHO updated a conditional recommendation against
+remdesivir in hospitalized patients with COVID-19. This recommendation is part of the
+WHO Therapeutics
+and COVID-19: living guideline
+and states “A conditional recommendation is issued when the evidence
+around the benefits and risks of intervention are less certain. In this case, there is a conditional recommendation
+against the use of remdesivir. This means that there isn’t enough evidence to support its use.”
+The products identified in this alert are confirmed as falsified on the basis that they deliberately / fraudulently
+misrepresent their identity, composition, or source. The composition of the vials is currently unknown and
+laboratory analyses are to be conducted.
+Batch EN2005A2-B: the batch number and the expiry date (06/2023) do not correspond to any
+remdesivir manufactured by GILEAD.
+Batch EN2009D7-Q: the batch number does not correspond to any remdesivir manufactured by GILEAD.
+Table 1: Products subject of WHO Medical Product Alert N°4/2021
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centers, wholesalers, distributors, pharmacies, and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory / health authorities are advised to immediately notify WHO if these falsified products are
+discovered in their country. If you have any information concerning the manufacture, distribution, or supply of
+these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical Product Alert N°4/2021
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

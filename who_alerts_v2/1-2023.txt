@@ -1,0 +1,51 @@
+ALERT NUMBER: 1/2023
+DRUG NAME: (contaminated) liquid dosage medicines
+ALERT TYPE: substandard
+DATE: 11 January 2023
+COUNTRIES: Cambodia, India
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/11-01-2023-medical-product-alert-n-1-2023-substandard-(contaminated)-liquid-dosage-medicines
+TITLE: 11 January 2023Medical product alertMedical Product Alert N°1/2023: Substandard (contaminated) liquid dosage medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to two substandard (contaminated) products, identified in Uzbekistan and reported to WHO on 22 December 2022, and identified in Cambodia, and reported to WHO on 3 April 2023. Substandard medical products are products that fail to meet quality standards or specifications and are therefore "out of specification"[1].
+The two products are
+AMBRONOL
+syrup
+and
+DOK-1 Max syrup.
+The stated manufacturer of both products is MARION BIOTECH PVT. LTD, (Uttar Pradesh, India).  To date, the stated manufacturer has not provided guarantees to WHO on the safety and quality of these products.
+Laboratory analysis of samples of both products found unacceptable amounts of diethylene glycol and /or ethylene glycol as contaminants.
+Both of these products may have marketing authorizations in other countries in the region. They may also have been distributed, through informal markets, to other countries or regions. Please see the Annex for further product information.
+WHO has previously published two Alerts on other contaminated liquid dosage medicines. Please see
+Medical Product Alert N°6/2022
+and
+Medical Product Alert N°7/2022
+.
+[1] WHO definitions:
+https://www.who.int/teams/regulation-prequalification/incidents-and-SF/background/definitions
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal
+The substandard products referenced in this Alert are unsafe and their use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the public
+It is important to detect and remove these substandard products from circulation to prevent harm to patients.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities are advised to immediately notify WHO if these substandard products are discovered in their respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients including propylene glycol, polyethylene glycol, sorbitol, and/or glycerin/glycerol, are urged to test for the presence of contaminants such as ethylene glycol and diethylene glycol before use in medicines.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you have these substandard products,
+please DO NOT use them
+. If you, or someone you know, have used them or suffered any adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre. If you have any information concerning the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Please see
+Annex
+for details of the substandard products referenced in Alert N°1/2023.
+This Alert (including photographs) will be updated if further relevant information becomes available.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

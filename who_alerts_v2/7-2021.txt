@@ -1,0 +1,41 @@
+ALERT NUMBER: 7/2021
+DRUG NAME: COVID-19 Vaccine AstraZeneca
+ALERT TYPE: falsified
+DATE: 4 November 2021
+COUNTRIES: Chad, Iran
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/04-11-2021-medical-product-alert-n-7-2021-falsified-covid-19-vaccine-astrazeneca
+TITLE: 4 November 2021Medical product alertMedical Product Alert N°7/2021: Falsified COVID-19 Vaccine AstraZeneca
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to falsified COVID-19 VACCINE AstraZeneca (ChAdOx1-S [recombinant]) identified in the Islamic Republic of Iran and reported to WHO in October 2021. The genuine manufacturer of COVID-19 VACCINE AstraZeneca (ChAdOx1-S [recombinant]) has indicated that the product is falsified. The falsified product was reported at the patient level outside authorized and regulated supply chains and authorized immunization programmes in the Islamic Republic of Iran.
+The falsified products are illicitly refilled vials of used and discarded genuine COVID-19 VACCINE AstraZeneca (ChAdOx1-S [recombinant]). The metal cap on samples of these falsified products displays evidence of tampering, indicating the metal cap was removed in order to refill the vials, and later replaced onto the vial.
+These falsified products are difficult to detect – as they may appear indistinguishable from genuine AstraZeneca (ChAdOx1-S [recombinant]) vaccine. There is therefore a risk they could be illicitly or accidentally inserted into the regulated supply chain or authorized immunization programme.
+Table 1: Products subject of WHO Medical Product Alert N°7/2021
+Risks
+Inappropriate or insecure disposal of vaccine vials creates a risk that empty vials are refilled to produce falsified COVID-19 vaccines. WHO recommends heightened scrutiny and awareness in the purchasing and distribution of vaccines and calls for the secure and appropriate disposal of empty vials.
+Genuine COVID-19 VACCINE AstraZeneca (ChAdOx1-S [recombinant]) is indicated for active immunization for the prevention of coronavirus disease caused by SARS-CoV-2. The use of genuine COVID-19 vaccines should be in accordance with official guidance from national regulatory authorities.
+Falsified COVID-19 vaccines pose a serious risk to global public health and place an additional burden on vulnerable populations and health systems. The risk to patient health from falsified COVID-19 vaccines includes delayed immunization against COVID-19 and could be life-threatening in some circumstances. It is important to detect and remove any falsified COVID-19 vaccines in circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+Reused and refilled vials may sometimes be identified by physical examination. Some indicators that a vial is falsified and may have been illicitly refilled may include:
+vials have scratches or signs of tampering
+labels show signs of damage
+the metal cap is dented, scratched or broken
+rubber seals are scratched or punctured
+foreign materials/particles visible inside the vial
+visible signs that the expiry date has been changed or tampered with
+the expiry date does not match the authentic batch number
+the product is available for private sale outside of authorized immunization programmes.
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies, and any other suppliers of medical products.
+All medical products, including COVID-19 vaccines, must be obtained from authorized/licensed suppliers and authorized immunization programmes. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above-falsified products, please do not use them. If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional and to report the incident to the National Regulatory Authorities / National Pharmacovigilance Centre.
+National regulatory / health authorities are advised to immediately notify WHO if these falsified products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

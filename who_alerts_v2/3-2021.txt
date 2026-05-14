@@ -1,0 +1,45 @@
+ALERT NUMBER: 3/2021
+DRUG NAME: CYTOTEC
+ALERT TYPE: falsified
+DATE: 10 August 2021
+COUNTRIES: Congo, Ghana, Niger, Nigeria, Cameroon
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/10-08-2021-medical-product-alert-n-3-2021
+TITLE: 10 August 2021Medical product alertMedical Product Alert N°3/2021: Falsified CYTOTEC
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to two batches of falsified CYTOTEC (misoprostol) 200 microgram
+tablets identified in the WHO Region of Africa and reported to WHO in July 2021. The genuine manufacturer of
+CYTOTEC has confirmed that the products listed in this Alert are falsified because these products failed
+laboratory analysis and/or display falsified variable data. These falsified products have been reported at
+wholesale and patient level in Cameroon, the Democratic Republic of Congo, Ghana and Nigeria.
+Misoprostol is listed on the WHO Model List of Essential Medicines. Genuine Cytotec (misoprostol) is indicated
+for the treatment of duodenal and gastric ulcers. Other uses of misoprostol as recommended by current WHO
+guidelines include induction of labour and postpartum haemorrhage prophylaxis, treatment of missed and
+incomplete miscarriages, induction of abortion, and cervical preparation before uterine instrumentation.
+The risk to patient health from falsified Cytotec (misoprostol) is ineffective or delayed treatment for all of the
+above uses and could also be life threatening in some circumstances. It is important to detect and remove any
+falsified Cytotec (misoprostol) from circulation so as to prevent harm to patients.
+The products identified in this Alert are confirmed as falsified on the basis that they deliberately/fraudulently
+misrepresent their identity, composition or source:
+Batch B16519 – batch number does not correspond to genuine manufactured CYTOTEC. Laboratory analysis of samples has also confirmed the product does not contain any active ingredient and does not comply with specifications;
+Batch 14660 – the expiry date (12/2021) on this product is falsified.
+Table 1: Products subject of WHO Medical Product Alert N°3/2021
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centers, wholesalers, distributors, pharmacies, and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory / health authorities are advised to immediately notify WHO if these falsified products are
+discovered in their country. If you have any information concerning the manufacture, distribution, or supply of
+these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical Product Alert N°3/2021
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

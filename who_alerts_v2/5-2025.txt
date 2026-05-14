@@ -1,0 +1,38 @@
+ALERT NUMBER: 5/2025
+DRUG NAME: (contaminated) oral liquid medicines
+ALERT TYPE: substandard
+DATE: 13 October 2025
+COUNTRIES: India
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/13-10-2025-medical-product-alert-n-5-2025--substandard-(contaminated)-oral-liquid-medicines
+TITLE: 13 October 2025Medical product alertMedical Product Alert N°5/2025: Substandard (contaminated) oral liquid medicines
+
+============================================================
+
+Alert summary
+This WHO Medical Product Alert refers to three substandard (contaminated) oral liquid medicines identified in India and reported to WHO on 8 October 2025.
+The affected products are oral liquid medicines containing active ingredients commonly used to relieve symptoms of the common cold, flu, or cough.
+On 8 October the Central Drugs Standard Control Organization (CDSCO) of India reported to WHO the presence of Diethylene Glycol (DEG) in at least three oral liquid medicines. This followed information identified by WHO on 30 September 2025 of localized clusters of acute illness and child fatalities in India. CDSCO informed WHO that the contaminated products were reportedly consumed by the affected children.
+The
+contaminated
+oral liquid medicines have been identified to be specific batches of
+COLDRIF, Respifresh TR and ReLife, manufactured by Sresan Pharmaceutical, Rednex Pharmaceuticals, and Shape Pharma
+.
+CDSCO has confirmed that relevant state authorities have ordered an immediate halt to production at implicated manufacturing sites and have suspended product authorizations. In addition, a recall of the contaminated products has been initiated by relevant state authorities.
+The CDSCO has informed WHO that none of the contaminated medicines have been exported from India and there is currently no evidence of illegal export. Nevertheless, WHO encourages National Regulatory Authorities (NRAs) to consider targeted market surveillance, with particular attention to informal and unregulated supply chains where products may circulate undetected. NRAs are also advised to carefully evaluate the risks associated with any oral liquid medicines originating from the same manufacturing sites—particularly those produced since December 2024.
+WHO continues to collaborate closely with Indian health authorities to monitor the situation, identify the source of the contamination and mitigate any potential public health risks.
+The products identified in this alert are considered substandard as they fail to meet their quality standards and their specifications.
+How to identify these substandard (contaminated) products
+See
+annex
+below with list of affected batches.
+Risks
+These contaminated products pose significant risks to patients and can cause severe and potentially life-threatening illness. Diethylene glycol is toxic to humans when consumed and can prove fatal. The contaminated oral liquid medicines referenced in this alert are unsafe and their use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state and acute kidney injury which may lead to death.
+To protect patients, it is essential to detect and remove these contaminated products from circulation.
+Advice to health-care professionals, regulatory authorities and the public
+Health-care professionals should report the detection of these substandard products and any incident of adverse effects, or lack of expected effects to their National Regulatory Authorities or National Pharmacovigilance Centre. WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these substandard products. Increased surveillance of the informal/unregulated market is also advised.
+National regulatory authorities/health authorities, and law enforcement authorities are advised to immediately notify WHO if these products are detected in their country.
+If you are in possession of any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have, used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+Annex: Products subject of WHO Medical Product Alert N°5/2025

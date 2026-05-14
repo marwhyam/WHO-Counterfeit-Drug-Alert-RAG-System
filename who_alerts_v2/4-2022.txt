@@ -1,0 +1,38 @@
+ALERT NUMBER: 4/2022
+DRUG NAME: DYSPORT
+ALERT TYPE: falsified
+DATE: 19 August 2022
+COUNTRIES: United Kingdom, Jordan, Poland, Kuwait
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/19-08-2022-medical-product-alert-n-4-2022-falsified-dysport
+TITLE: 19 August 2022Medical product alertMedical Product Alert N°4/2022: Falsified DYSPORT
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to five falsified batches of DYSPORT detected in five countries - Jordan (May 2022), Türkiye (May 2022), Kuwait (June 2022), United Kingdom (June 2022), and Poland (July 2022).
+DYSPORT is indicated to treat symptoms of cervical dystonia, glabellar lines (wrinkles), and spasticity.
+The genuine manufacturer of DYSPORT is IPSEN.
+The genuine manufacturer has confirmed that all of the products referenced in this Alert are falsified on the basis that they deliberately/fraudulently misrepresent their identity and source.
+The variable data (batch numbers and manufacturing-expiry dates) are falsified, there are discrepancies in the packaging languages, printing errors on the cartons, and discrepancies in vial types.
+Risks
+The safety, sterility, and quality of the products referenced in this alert are unknown.
+DYSPORT is injected intramuscularly. These falsified products may pose a particular high risk to patients.
+It is important to detect and remove these falsified products from circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you are in possession of these falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country.
+If you have any information concerning the manufacture and/or distribution of these products, please inform WHO via
+rapidalert@who.int
+Please click
+here
+for the list of falsified products
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

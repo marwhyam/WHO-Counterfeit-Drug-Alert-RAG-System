@@ -1,0 +1,47 @@
+ALERT NUMBER: 2/2024
+DRUG NAME: OZEMPIC (semaglutide)
+ALERT TYPE: falsified
+DATE: 19 June 2024
+COUNTRIES: Brazil, United States, United Kingdom
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/19-06-2024-medical-product-alert-n-2-2024--falsified-ozempic-(semaglutide)
+TITLE: 19 June 2024Medical product alertMedical Product Alert N°2/2024: Falsified OZEMPIC (semaglutide)
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to three falsified batches of OZEMPIC (semaglutide). This falsified product has been detected in Brazil (October 2023), the United Kingdom of Great Britain and Northern Ireland (October 2023), and the United States of America (December 2023), and was supplied in the regulated supply chain.
+OZEMPIC (semaglutide) is from a group of medicines called glucagon-like peptide-1 Receptor Agonists (GLP-1 RA) that are indicated for the treatment of hyperglycemia in type 2 diabetes mellitus in adults, adolescents, and children over 12 years of age.
+The genuine manufacturer of OZEMPIC has confirmed that the three products referenced in this Alert are
+falsified
+: the products misrepresent their identify and source as they were not manufactured by Novo Nordisk:
+batch number LP6F832 is not recognized.
+the combination of batch number NAR0074 with serial number 430834149057 does not correspond to genuine manufacturing records.
+batch number MP5E511 is genuine, but the product is falsified.
+WHO has previously communicated the need for diligence by national regulators on some of these batches and similar GLP-1 agonist products in general.
+Please refer to the
+Annex
+of this Alert for full details of the affected products.
+Risks
+The use of falsified OZEMPIC may result in the ineffective treatment of patients due to incorrect dosage, contamination with harmful substances, or use of unknown or substituted ingredients. It may pose other serious risks to health because of its subcutaneous injection administration that could be life-threatening.
+Advice to healthcare professionals, regulatory authorities and the
+public
+Healthcare professionals should report any incident of adverse effects, lack of effectiveness and suspected falsification to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory/health authorities are encouraged to contact their marketing authorization holders for advice on identification of falsification, increase monitoring of informal including online sale of products; and are advised to immediately notify WHO if they identify these falsified products.
+If you have any of the affected products, WHO recommends that you do not use them. If you, or someone you know, has or may have used the affected product, or suffered an adverse reaction or unexpected side-effect after use, you are advised to seek immediate medical advice from a healthcare professional.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Ways to identify falsified products
+Check the Lot Number and Serial Number: WHO advises not to distribute, use, or sell products labelled with batch numbers listed in
+Annex
+.
+Examine the Pen: Falsified Ozempic pens may have a scale extending out from the pen when setting the dose.
+Assess the Label Quality: The label might be of poor quality and may not adhere well to the pen.
+Look for Spelling Mistakes: The carton may have spelling mistakes on the front of the box.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

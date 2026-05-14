@@ -1,0 +1,48 @@
+ALERT NUMBER: 1/2026
+DRUG NAME: ACCUPAQUE (Iohexol), OMNIPAQUE (Iohexol) and VISIPAQUE  (Iodixanol)
+ALERT TYPE: substandard
+DATE: 7 May 2026
+COUNTRIES: 
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/07-05-2026-medical-product-alert-n-1-2026--substandard-accupaque-(iohexol)--omnipaque-(iohexol)-and-visipaque--(iodixanol)
+TITLE: 7 May 2026Medical product alertMedical Product Alert N°1/2026: Substandard ACCUPAQUE (Iohexol), OMNIPAQUE (Iohexol) and VISIPAQUE  (Iodixanol)
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to multiple batches of ACCUPAQUE, OMNIPAQUE and VISIPAQUE solutions for injection presented in
+100 ml polypropylene containers
+. In March 2026, the Health Products Regulatory Authority (HPRA), Ireland, notified WHO of a Class I quality defect affecting specific batches of iodinated contrast media (Iohexol or Iodixanol) marketed under the brand names ACCUPAQUE, OMNIPAQUE and VISIPAQUE manufactured by GE HealthCare Ireland Limited.
+The defect involves the presence of metallic particulate matter, either adhered to or embedded within the inner surface of polypropylene bottles. In at least one confirmed instance identified by the manufacturer, a free metallic particulate was present within the finished product. The quality defect only affects batches supplied in
+100 ml polypropylene containers
+. Batches supplied in glass containers are not affected. The affected batches of these products have been supplied globally to multiple countries. Distribution primarily occurred at hospital level, including facilities performing interventional radiology, cardiology procedures and vascular surgery procedures.
+How to identify these substandard products
+The list of affected products and batches provided by GE Healthcare Ireland Limited is included in
+Annexes 1 and 2 of this Alert
+.
+Risks
+These products are injectable solutions for intra-arterial and intravenous use. The presence of particulate matter poses a safety risk especially when injected intra-arterially and can cause serious adverse events including life-threatening embolic events.
+While the probability of contamination may be low, the risk is higher in settings where:
+Visual inspection of products is not strictly performed (as per manufacturer’s      product leaflet);
+Recall notifications have not reached the facility;
+Alternative contrast agents are unavailable, resulting in use of affected products.
+To prevent patient harm, it is important to identify and remove the affected batches of Accupaque, Omnipaque, and Visipaque from clinical use.
+Advice to health-care professionals, regulatory authorities and the public
+WHO advises national regulatory authorities and health-care professionals of the potential risk associated with metallic particulate matter in the specific batches of Accupaque, Omnipaque, and Visipaque iodinated contrast media supplied in
+100ml polypropylene containers
+.
+National regulatory authorities should confirm receipt of the manufacturer notifications and market action instructions and take appropriate regulatory and public health actions, in line with national guidelines.
+WHO urges health-care professionals to remain vigilant for adverse events potentially related to particulate embolism.
+Particulate embolism–related adverse events
+may occur when solid particles inadvertently enter the bloodstream and obstruct small blood vessels, leading to impaired blood flow and ischemic injury. Clinically, this may manifest as respiratory distress, cardiovascular or neurological events (e.g. pulmonary embolism, myocardial ischemia, stroke), inflammatory reactions, end‑organ damage, or, in severe cases, multi‑organ failure or death[i].
+If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional.
+Report any suspected defects or clinical events via national systems and the WHO Global Surveillance and Monitoring System (GSMS). If you are in possession of these products, WHO recommends that you do not use them.
+If you have any information about these products, please contact WHO via
+rapidalert@who.int
+Annexes 1 and 2: List of affected products and batches.
+[i]
+Raju SK, Menon R, Nair S, et al.
+Non‑thrombotic pulmonary embolism from inorganic particulate matter foreign bodies
+. Journal of Forensic and Legal Medicine. 2018. Available at:
+https://www.researchgate.net/publication/323426498
+(accessed 1 May 2026).

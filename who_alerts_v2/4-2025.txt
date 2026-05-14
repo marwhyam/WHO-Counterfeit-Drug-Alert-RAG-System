@@ -1,0 +1,56 @@
+ALERT NUMBER: 4/2025
+DRUG NAME: (contaminated) FENTANILO HLB (fentanyl citrate)
+ALERT TYPE: substandard
+DATE: 29 August 2025
+COUNTRIES: Argentina
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/29-08-2025-medical-product-alert-n-4-2025--substandard-(contaminated)-fentanilo-hlb-(fentanyl-citrate)
+TITLE: 29 August 2025Medical product alertMedical Product Alert N°4/2025: Substandard (contaminated) FENTANILO HLB (fentanyl citrate)
+
+============================================================
+
+Alert summary
+This WHO Medical Product Alert concerns six lots of substandard FENTANILO HLB (fentanyl citrate) detected in Argentina
+Fentanyl citrate injections are opioid analgesics used to relieve pain during and after surgery. It is also used to reduce the rate of breathing in patients who are on a ventilator. It is also used to manage severe pain in patients with chronic conditions.
+In May 2025, WHO identified reports of a fatal outbreak of bacterial infections in Argentina linked to a contaminated lot (Lot 31202) of injectable FENTANILO HLB. The contamination involves drug-resistant strains of bacteria:
+Klebsiella pneumoniae
+and
+Ralstonia Picketti
+.
+Information now available to WHO indicates that multiple lots of FENTANILO HLB are contaminated and are therefore subject to recall in Argentina.
+On 13 May 2025 the Argentine national regulatory authority Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT) issued an alert and recall for
+FENTANILO HLB - Lot 31202
+which had tested positive for
+K. pneumoniae
+and
+R. Picketti
+. The alert issued by ANMAT indicated that HLB PHARMA GROUP S.A. was the marketing authorization holder of FENTANILO HLB in Argentina, and the manufacturer was LABORATORIOS RAMALLO S.A in Argentina.
+On 24 Feb 2025 ANMAT had suspended the manufacturing activities
+of LABORATORIOS RAMALLO S.A. for  deficiencies, classified as critical and serious, across several operational areas, including failures in ensuring product safety and efficacy. On 13 May 2025, ANMAT
+prohibited the use, distribution, and marketing
+of all HLB PHARMA products on the market in Argentina. ANMAT issued
+other alerts and recalls
+for substandard products produced or distributed by HLB PHARMA. However, substandard products manufactured by LABORATORIOS RAMALLO S.A. and or HLB PHARMA may still be in circulation.
+Given the serious deficiencies in good manufacturing practice identified by ANMAT, any injectable or parenteral product manufactured or distributed by LABORATORIOS RAMALLO S.A. or HLB PHARMA after February 2022 should be treated with caution. These products may pose a risk of being contaminated, and their use could compromise patient safety. Caution is strongly advised. The possibility that these products are circulating in other markets cannot be excluded.
+The products identified in this alert are considered substandard as they fail to meet their quality standards and their specifications.
+How to identify these substandard products
+See
+Annex
+below with list of affected lots.
+Risks
+FENTANILO HLB (fentanyl citrate) is administered by injection. It may likely be given to critically ill or surgical patients. Such patients may already be vulnerable. Because of this, the products sterility and quality are critical to patient safety.
+The sterility of the FENTANILO HLB products identified in this WHO Medical Product Alert are considered compromised, as they may be contaminated with
+K. pneumoniae
+and or
+R. pickettii
+.
+These contaminated products pose significant risks to patients and can cause severe and potentially life-threatening infections, particularly in vulnerable individuals. Any use of these products poses a high risk to patients.
+To protect patients, it is essential to detect and remove these substandard products from circulation.
+Advice to health-care professionals, regulatory authorities and the public
+Health-care professionals should report the detection of these substandard products and any incident of adverse effects, or lack of expected effects to their National Regulatory Authorities or National Pharmacovigilance Centre. WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these substandard products. Increased surveillance of the informal / unregulated market is also advised.
+National regulatory authorities/health authorities and law enforcement authorities are advised to immediately notify WHO if these products are detected in their country.
+If you own any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Products subject of WHO Medical Product Alert N°4 /2025

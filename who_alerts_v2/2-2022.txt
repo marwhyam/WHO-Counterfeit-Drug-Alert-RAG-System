@@ -1,0 +1,42 @@
+ALERT NUMBER: 2/2022
+DRUG NAME: DESREM (Remdesivir)
+ALERT TYPE: falsified
+DATE: 9 March 2022
+COUNTRIES: India
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/09-03-2022-medical-product-alert-n-2-2022-falsified-desrem-(remdesivir)
+TITLE: 9 March 2022Medical product alertMedical Product Alert N°2/2022: Falsified DESREM (Remdesivir)
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to two falsified batches of DESREM Remdesivir for Injection 100mg/vial. The falsified batches have been identified in Guatemala and India and were reported to WHO in February 2022.
+The genuine manufacturer of DESREM, Mylan Laboratories Ltd, has confirmed that the products identified in this Alert are falsified.
+Laboratory analysis of these falsified products, conducted by the genuine manufacturer, established that they do not contain any of the stated active pharmaceutical ingredient (remdesivir). The vials of these falsified products may be smaller than genuine DESREM and the labels have multiple spelling errors and use the wrong font styles and colours. Although the identified batch numbers are genuine, the expiry dates listed below are falsified.
+The products identified in this Alert are falsified on the basis that they deliberately/fraudulently misrepresent their identity, composition, and source.
+Table 1: Products subject of WHO Medical Product Alert N°2/2022
+Risks
+Remdesivir is a broad-spectrum antiviral medication that has been approved or authorized for emergency use to treat COVID-19 in several countries. In November 2020, however, WHO updated a conditional recommendation against the use remdesivir in hospitalized patients with COVID-19.
+This recommendation is part of the WHO Therapeutics and COVID-19: living guideline and states, “
+A conditional recommendation is issued when the evidence around the benefits and risks of an intervention are less certain.  In this case, there is a conditional recommendation against the use of remdesivir. This means that there isn’t enough evidence to support its use
+”. [Accessed 28 February 2022]. Available from
+here
+.
+Falsified remdesivir products pose a risk to global public health and hamper efforts to treat patients with
+COVID-19. Such falsified products place an additional burden on vulnerable populations and health systems.
+The risk to patient health from the falsified product identified in this Alert may include a delay in receiving safe and effective treatment.
+It is important to detect and remove these falsified products from circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you have these falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country.
+If you have any information concerning the manufacture or distribution of these products, please inform WHO via
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

@@ -1,0 +1,30 @@
+ALERT NUMBER: 2/2025
+DRUG NAME: HEALMOXY (Amoxicillin) Capsules 500mg
+ALERT TYPE: falsified
+DATE: 23 April 2025
+COUNTRIES: Cameroon
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/23-04-2025-medical-product-alert-n-2-2025--falsified-healmoxy-(amoxicillin)-capsules-500mg
+TITLE: 23 April 2025Medical product alertMedical Product Alert N°2/2025: Falsified HEALMOXY (Amoxicillin) Capsules 500mg
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to four batches of falsified HEALMOXY Capsules 500mg. The falsified products have been detected in Cameroon and the Central African Republic and were reported to the WHO in March 2025.
+The active pharmaceutical ingredient in genuine HEALMOXY capsules is amoxicillin: it is an antibiotic used to treat a variety of bacterial infections, including middle ear infections, pneumonia, skin infections, dental infections, and urinary tract infections.
+How to identify these falsified products
+These products are falsified as they deliberately misrepresent their identity, composition, and source.
+Analysis of samples of the falsified HEALMOXY found the capsules did not contain the stated active ingredient, specifically amoxicillin.
+At least two of the falsified products display inconsistent formats for manufacture and expiry dates. Dates on these falsified products are displayed as day/month/year in eight digits (e.g., 10/01/2027).
+Please refer to the
+Annex
+of this alert for full details of the falsified products.
+Risks
+These falsified products are unsafe and may pose significant health risks, particularly for severe infections or vulnerable individuals. The falsified HEALMOXY is not efficacious and should not be used to manage bacterial infections. Amoxicillin is an antibiotic that works by killing bacteria or preventing their growth. Without the active ingredient, these products would not be effective in treating the infection, which could lead to the infection worsening or spreading. It is crucial to detect and remove any falsified HEALMOXY from circulation to prevent harm to patients.
+Advice to healthcare professionals, regulatory authorities and the public
+Health-care professionals should report any incident of adverse effects, lack of therapeutic effect or suspected falsification to the National Regulatory Authorities or National Pharmacovigilance Centre.
+WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities/law enforcement are advised to immediately notify WHO if falsified products are detected in their country. If you are in possession of any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have used, these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Products subject of WHO Medical Product Alert N°2/2025

@@ -1,0 +1,54 @@
+ALERT NUMBER: 5/2023
+DRUG NAME: (contaminated) syrup medicines
+ALERT TYPE: substandard
+DATE: 19 July 2023
+COUNTRIES: United Kingdom, Cameroon
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/19-07-2023-medical-product-alert-n-5-2023--substandard-(contaminated)-syrup-medicines
+TITLE: 19 July 2023Medical product alertMedical Product Alert N°5/2023: Substandard (contaminated) syrup medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to a batch of substandard (contaminated) NATURCOLD Syrup identified in Cameroon and first reported to WHO on 13 March 2023. All reasonable precautions have been taken by WHO to verify the information contained in this alert and this may be updated as more information becomes available.
+The stated active ingredients of NATURCOLD syrup are listed as paracetamol, phenylephrine hydrochloride & chlorpheniramine maleate. The combination of these three ingredients are used to relieve symptoms associated with the common cold, flu, and allergic rhinitis.
+Samples of the NATURCOLD syrup from Cameroon were made available to WHO on 27 June 2023 and analysed in a WHO contracted and prequalified laboratory. The analysis found that the product contained unacceptable amounts of diethylene glycol as contaminants. Diethylene glycol was detected in samples of NATURCOLD as much as 28.6%. The acceptable limit for Diethylene Glycol is no more than 0.10%.
+The stated marketer of the affected product is listed on the product packaging as FRAKEN INTERNATIONAL (England). The United Kingdom national regulatory authority, the MHRA, has confirmed that no such manufacturer exists in the UK. Enquires are still underway to determine the origin of the product. Therefore, the stated manufacturer has not provided guarantees to WHO on the safety and quality of these products.
+The product referenced in this Alert may have marketing authorizations in other countries or regions. It may also have been distributed through informal markets to neighboring countries.
+Please refer to the
+Annex
+of this Alert for full details of the affected products.
+WHO has previously published four Alerts on other contaminated liquid dosage medicines. Please see
+Medical Product Alert N°6/2022
+,
+Medical Product Alert N°7/2022
+,
+Medical Product Alert N°1/2023
+and
+Medical Product Alert N°4/2023
+.
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal
+The substandard products referenced in this Alert are unsafe and their use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the public
+If you have the affected product, WHO recommends that you do not use it. If you, or someone you know, has or may have used the affected product, or suffered an adverse reaction or unexpected side-effect after use, you are advised to seek immediate medical advice from a healthcare professional.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be
+affected by these products. Increased surveillance of the informal/unregulated market is also advised. National
+regulatory authorities/health authorities are advised to immediately notify WHO if these substandard products are
+discovered in their respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients including propylene glycol, polyethylene glycol, sorbitol, and/or glycerin/glycerol,
+are urged to test for the presence of contaminants
+such as ethylene glycol and diethylene glycol before use in medicines.
+Healthcare professionals should report any suspicious cases of adverse events linked to the use of contaminated medicines to the National Regulatory Authorities/National Pharmacovigilance Centre.
+If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Please see
+Annex
+for details of the substandard product referenced in Alert N°5/2023.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

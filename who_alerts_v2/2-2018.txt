@@ -1,0 +1,33 @@
+ALERT NUMBER: 2/2018
+DRUG NAME: “Augmentin”
+ALERT TYPE: falsified
+DATE: 2 March 2018
+COUNTRIES: Cameroon
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/02-03-2018-medical-product-alert-n-2-2018--falsified--augmentin
+TITLE: 2 March 2018Medical product alertMedical Product Alert N°2/2018: Falsified “Augmentin”
+
+============================================================
+
+This Medical Product Alert relates to a falsified version of Augmentin (Amoxycillin + clavulanate
+potassium) that has been identified in Cameroon and recently reported to WHO.
+Amoxicillin + clavulanic acid is used to treat a range of bacterial infections and is listed as a WHO
+Essential Medicine.
+WHO was informed in early 2018 by an NGO that this product was available at patient level in a street market of Douala, Littoral Region, Cameroon. Samples were sent for quality-assurance laboratory testing and the results shared with WHO. The source(s) of the falsified product has not yet been identified.
+The packaging of the falsified product appears to be a close imitation of the genuine product manufactured by GSK (GlaxoSmithKline).
+It should be noted that:
+The stated manufacturer has confirmed they did not manufacture this falsified version
+There are some mistakes on the packaging inscriptions
+Quality assurance laboratory analysis did not identify any of the expected active ingredients
+There have been no known adverse reactions reported to WHO at this stage.
+Product details and photographs are available
+here
+.
+WHO requests increased vigilance within the supply chains of countries likely to be affected by this falsified product. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+If you are in possession of the above product, please do not use. If you have taken this falsified product, or if you suffer from an adverse event after having taken this product, please seek immediate advice from a qualified healthcare professional, and report the incident to your local Ministry of Health/National Medicines Regulatory Authorities/National Pharmacovigilance Centre.
+It is necessary to ensure that all medical products are obtained from authentic and reliable sources. Their authenticity and condition should be carefully checked. Seek advice from a healthcare professional if there is any doubt.
+National health authorities are asked to immediately notify WHO if this falsified product is discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+Product details are listed in the
+annex
+.

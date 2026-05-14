@@ -1,0 +1,61 @@
+ALERT NUMBER: 6/2023
+DRUG NAME: (contaminated) syrup medicines
+ALERT TYPE: substandard
+DATE: 7 August 2023
+COUNTRIES: Iraq, India
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/07-08-2023-medical-product-alert-n-6-2023--substandard-(contaminated)-syrup-medicines
+TITLE: 7 August 2023Medical product alertMedical Product Alert N°6/2023: Substandard (contaminated) syrup medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to one batch of substandard (contaminated) COLD OUT syrup (Paracetamol and Chlorpheniramine Maleate) identified in the Republic of Iraq and reported to the World Health Organization (WHO) on
+10 July 2023 by a third party. Please refer to the
+Annex
+of this Alert for full details of the affected batch of the product.
+Paracetamol and chlorpheniramine combination syrups are used to treat and relieve symptoms of the common cold and allergy symptoms.
+A sample of the COLD OUT Syrup was obtained from one location in Iraq and submitted for laboratory analysis. The sample was found to contain unacceptable amounts of diethylene glycol (0.25%) and ethylene glycol (2.1%) as contaminants. The acceptable safety limit for both ethylene glycol and diethylene glycol is
+no more than 0.10%.
+The stated manufacturer of the affected batch of the product is FOURRTS (INDIA) LABORATORIES PVT. LTD, and the product is stated to be manufactured for DABILIFE PHARMA PVT. LTD. - INDIA. To date, the stated manufacturer and the marketer have not provided guarantees to WHO on the safety and quality of the product.
+The product referenced in this Alert may have marketing authorizations in other countries or regions. It may also have been distributed, through informal markets, to other countries.
+Please refer to the
+Annex
+of this Alert for full details of the affected products.
+WHO has previously published five Alerts on other contaminated liquid dosage medicines. Please see
+Medical Product Alert N°6/2022
+,
+Medical Product Alert N°7/2022
+,
+Medical Product Alert N°1/2023
+,
+Medical Product Alert N°4/2023
+and
+Medical Product Alert N°5/2023
+.
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal.
+The substandard batch of the product referenced in this Alert is unsafe and its use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the public
+If you have the affected product, WHO recommends that you do not use it. If you, or someone you know, has, or may have used the affected product, or suffered an adverse reaction or unexpected side-effects after use, you are advised to seek immediate medical advice from a healthcare professional.
+While this Medical Product Alert relates to only one batch of the product (as set forth in the Annex hereto), out of an abundance of caution, WHO recommends increased vigilance and testing in respect of the product in general.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be
+affected by these products. Increased surveillance of the informal/unregulated market is also advised. National
+regulatory authorities/health authorities are advised to immediately notify WHO if these substandard products are
+discovered in their respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients including propylene glycol, polyethylene glycol, sorbitol, and/or glycerin/glycerol,
+are urged to test for the presence of contaminants
+such as ethylene glycol and diethylene glycol before use in medicines.
+Healthcare professionals should report any suspicious cases of adverse events linked to the use of contaminated medicines to the National Regulatory Authorities/National Pharmacovigilance Centre.
+If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Please see
+Annex
+for details of the substandard product referenced in Alert N°6/2023.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

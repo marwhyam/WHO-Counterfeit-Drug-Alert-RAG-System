@@ -1,0 +1,66 @@
+ALERT NUMBER: 4/2024
+DRUG NAME: USP/EP PROPYLENE GLYCOL
+ALERT TYPE: falsified
+DATE: 10 October 2024
+COUNTRIES: Pakistan, United States
+WHO REGIONS: EURO
+SOURCE URL: https://www.who.int/news/item/10-10-2024-medical-product-alert-n-4-2024--falsified-usp-ep-propylene-glycol
+TITLE: 10 October 2024Medical product alertMedical Product Alert N°4/2024: Falsified USP/EP PROPYLENE GLYCOL
+
+============================================================
+
+Alert Summary
+This WHO Alert refers to falsified DOW USP/EP PROPYLENE GLYCOL detected in Pakistan in August 2024 and notified to WHO in September 2024.
+Authentic DOW USP/EP PROPYLENE GLYCOL is a raw material (excipient) utilized in pharmaceutical and other manufacturing processes, adhering to the standards of the United States and European Pharmacopoeias (USP/EP) for medicinal use.
+Background
+In April 2024, WHO also issued
+Medical Product Alert No.1/2024
+concerning the detection of five batches of falsified and contaminated DOW USP/EP PROPYLENE GLYCOL which had been detected in Pakistan and linked to the manufacture of contaminated oral liquid medicines. The falsified PROPYLENE GLYCOL had been found to be contaminated with ethylene glycol.
+WHO has now received information concerning three new falsified batches of DOW USP/EP PROPYLENE GLYCOL which were detected in Pakistan in August 2024. WHO shared this information with the Drug Regulatory Authority of Pakistan (DRAP) which issued a national rapid alert on 22 August 2024, detailing these new falsified batches of DOW USP/EP PROPYLENE GLYCOL. See
+DRAP ALERT No: I/S/8-24-29
+. On 6 September 2024, DRAP issued a further rapid alert concerning contamination with ethylene glycol and diethylene glycol in five locally produced oral liquid medicines. See
+DRAP ALERT No: I/S/9-24-32
+.
+In September 2024, DOW confirmed that the materials detailed in the DRAP alert and identified in this WHO alert are falsified and were not manufactured or supplied by DOW. All three batch numbers listed on the labels of the containers are also falsified. At least one falsified DOW certificate of analysis for one of the batches was also identified.
+On 8 October 2024, DRAP confirmed to WHO that laboratory analysis of the falsified DOW Propylene Glycol USP/EP, batch F8900L8PPD6, found it was contaminated with Ethylene Glycol at 0.7624% v/v.
+The PROPYLENE GLYCOL materials identified in this alert have been deliberately and fraudulently falsified to misrepresent their identity and source. The quality and safety of these falsified materials cannot be assured.
+The falsified materials may have also been offered for sale online and have been distributed to other countries, including through informal or unregulated markets. Manufacturers of oral liquid medicines may have purchased these contaminated raw materials, which may still be in their storage facilities.
+Please refer to
+Annex 1
+of this alert for full details of the affected products and
+Annex 2
+for available photographs.
+Risks
+The falsified raw materials referenced in this alert should be considered as unsafe and should not be used in the manufacture of medical products or any products intended for human use. They may be contaminated with unknown substances such as, but not limited to, diethylene glycol (DEG) and or ethylene glycol (EG). Toxic effects of consumption of such contaminants can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state, and acute kidney injury which may lead to death.
+WHO has previously published seven Alerts on oral liquid medicines contaminated with DEG and or EG. Please see:
+Medical Product Alert No.6/2022
+,
+Medical Product Alert No.7/2022
+,
+Medical Product Alert No.1/2023
+,
+Medical Product Alert No.4/2023
+,
+Medical Product Alert No.5/2023
+,
+Medical Product Alert No.6/2023
+, and
+Medical Product Alert N°8/2023
+.
+Advice to manufacturers, distributors, and regulatory authorities
+Manufacturers of medicines should ensure that raw materials are acquired from qualified and approved suppliers.
+Manufacturers of oral liquid medicines, especially syrups containing raw materials at risk of contamination with EG and/or DEG, e.g. propylene glycol, sorbitol, and/or glycerin/glycerol,
+are urged to follow WHO good manufacturing practice requirements
+.
+Manufacturers are also advised to test each batch of incoming raw materials for ethylene glycol and diethylene glycol before using as excipients in the production of liquid medicines.
+Analytical methods have been developed for testing liquid preparations for oral use for possible contamination with DEG/EG. Gas Chromatography (GC) is a suitable and widely used analytical technique. In case of lack of access to GC, WHO recommends a two-level approach in which suspicious samples are first screened to identify contamination using a semi-quantitative thin-layer chromatography (TLC) method as per the
+International Pharmacopoeia
+. The suspected contaminated products may then be confirmed by GC.
+WHO advises against distributing or promoting any finished products that may have been manufactured using falsified raw materials. If such products have already been distributed and consumed, it is crucial to urge and guide patients to promptly seek medical advice from a healthcare professional.
+WHO
+requests increased surveillance and diligence
+within the supply chains of countries and regions likely to be impacted by the sourcing of these raw materials. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities are advised to immediately notify WHO if substandard/falsified raw materials are discovered in their country.
+Healthcare professionals should report any adverse events suspected to be linked to the use of contaminated medicines to the National Regulatory Authorities/National Pharmacovigilance Centre. Patients who experience adverse reactions or unexpected side-effects after using suspected contaminated products should also seek immediate medical attention from a healthcare professional.
+If you have any information about the manufacture, use or supply of these falsified and contaminated raw materials, please contact WHO via
+rapidalert@who.int
+.

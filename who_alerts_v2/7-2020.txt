@@ -1,0 +1,40 @@
+ALERT NUMBER: 7/2020
+DRUG NAME: HARVONI (Ledipasvir/sofosbuvir)
+ALERT TYPE: falsified
+DATE: 8 December 2020
+COUNTRIES: Turkey, Brazil
+WHO REGIONS: AMRO, EURO
+SOURCE URL: https://www.who.int/news/item/08-12-2020-medical-product-alert-n-7-2020
+TITLE: 8 December 2020Medical product alertMedical Product Alert N°7/2020: Falsified HARVONI (Ledipasvir/sofosbuvir)
+
+============================================================
+
+Falsified HARVONI (Ledipasvir/sofosbuvir) identified in the WHO regions of the Americas and Europe
+Alert Summary
+This WHO Medical Product Alert relates to one batch of confirmed falsified HARVONI (Ledipasvir/sofosbuvir) identified in Brazil and Turkey.
+Falsified Harvoni was identified in Brazil in May 2020 and in Turkey in November 2020.  WHO has received recent information that suggests these products are still in circulation. Available information indicates that these falsified medicines were supplied at patient level.
+The WHO
+Global Surveillance and Monitoring System
+database has prior records of other falsified Harvoni batches. Consistent reporting is essential to determine the scope and scale of such falsified products.
+HARVONI is an antiviral medicine indicated for the treatment of chronic Hepatitis C. Please refer to the WHO Fact Sheet
+here
+for further information on Hepatitis C.
+The falsified products identified in this Alert are confirmed falsified on the basis that they deliberately/ fraudulently misrepresent their identity, composition or source:
+The genuine manufacturer of HARVONI – Gilead Sciences – has confirmed it did not produce the product referenced in this WHO Medical Product Alert n°7/2020;
+AND the variable data (batch number and expiry dates) of these products do not correspond to genuine manufacturing records.
+Table 1:
+Products referenced in WHO Medical Product Alert n°7/202
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed and reliable suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above falsified products, please do not use them.
+If you have used these falsified products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional, and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical product Alert n°7/2020
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit:
+https://www.who.int/health-topics/substandard-and-falsified-medical-products
+Email:
+rapidalert@who.int

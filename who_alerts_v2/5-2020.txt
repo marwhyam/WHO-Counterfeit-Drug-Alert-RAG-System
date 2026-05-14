@@ -1,0 +1,40 @@
+ALERT NUMBER: 5/2020
+DRUG NAME: and contaminated Defibrotide
+ALERT TYPE: both
+DATE: 7 May 2020
+COUNTRIES: Malaysia, Argentina, Australia, Niger, Turkey, Jordan, Saudi Arabia, Kuwait, Singapore, Lebanon, New Zealand, United Kingdom, Qatar
+WHO REGIONS: WPRO, EURO, EMRO
+SOURCE URL: https://www.who.int/news/item/07-05-2020-medical-product-alert-n-5-2020
+TITLE: 7 May 2020Medical product alertMedical Product Alert N°5/2020: Falsified and contaminated Defibrotide
+
+============================================================
+
+Falsified and contaminated Defibrotide identified in WHO regions of Western Pacific, Europe and Eastern Mediterranean
+UPDATE (of 1 July 2020) to Medical Product Alert n°5/2020
+This alert relates to falsified DEFIBROTIDE 200MG VIALS OF 2.5ML (80MG/ML) CONCENTRATE FOR SOLUTION FOR INFUSION identified to date in Argentina, Australia, Latvia, Malaysia and Saudi Arabia. This product is sold under the brand name Defitelio.
+On 13 March 2020, the WHO
+Global Surveillance and Monitoring System on Substandard and Falsified (SF) Medical Products
+was informed that falsified DEFIBROTIDE 200MG vials were identified at patient level in Australia, displaying batch number 0286 (see Table 1 below for full details).
+Following enquiries with stakeholders, on 8 April 2020, WHO was informed that falsified DEFIBROTIDE 200MG vials had also been supplied to Saudi Arabia, displaying batch number 0286 and 0126 (see Table 1 below for full details). On 9 April 2020, WHO was informed that falsified DEFIBROTIDE 200MG vials, displaying batch number 0126, had also been identified in Australia and Latvia.
+As a result of the publication of Medical Product Alert n°5/2020 the WHO was informed falsified DEFIBROTIDE 200MG vials with batch number 0286 was supplied to Argentina. On 19 June WHO was informed the same falsified batch was supplied to Malaysia.  DEFIBROTIDE is used to treat hepatic veno-occlusive disease, in which the blood vessels in the liver become damaged and obstructed by blood clots. This can be caused by treatments prior to a stem cell transplantation.
+Laboratory analyses, conducted by national medicines regulatory authorities and the manufacturer of the genuine product, established that these falsified products do not contain any of the expected active ingredient. The solution in the vials is also contaminated with mould (Cladosporium sp. and Aspergillus niger).
+Information available to WHO indicates that both batches of falsified DEFIBROTIDE 200MG vials were present within the regulated supply chain in Latvia as early as January 2020 and were also handled by medicine wholesalers in Singapore, Switzerland and the United Kingdom in February 2020. It is important to note that widespread vigilance is required from all countries, regardless of where the product was originally identified.
+Table 1: falsified defibrotide subject of WHO Alert n°5/2020, identified in Argentina, Australia, Latvia, Malaysia and Saudi Arabia
+The products listed in the above table are confirmed falsified, on the basis that there is deliberate misrepresentation of their identity, composition, and source.
+The genuine manufacturer of Defibrotide, GENTIUM S.R.L has also confirmed to WHO that:
+They did not manufacture the above products.
+Authentic DEFIBROTIDE 200MG VIALS with batch number 0286 were supplied to Hong Kong, Malaysia, Singapore and Turkey.
+Authentic DEFIBROTIDE 200MG VIALS with batch number 0126 were supplied to Australia, Jordan, Kuwait, Lebanon, New Zealand, Qatar, Singapore, Turkey and the United Arab Emirates.
+Photos of Falsified DEFIBROTIDE Batch number: 0286, with expiry date: 09/2021
+Sample from Latvia       Sample from Latvia
+Photos of Falsified DEFIBROTIDE Batch number: 0126, with expiry date: 08/2021
+Sample from Australia       Sample from Australia
+WHO requests increased vigilance within the supply chains of countries likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+If you are in possession of the above products, please do not use them. If you have used these falsified products, or if you suffer an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional, and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from licensed, authorized and reliable sources. Their authenticity and condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are identified in their country(ies). If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+.
+WHO Global Surveillance and Monitoring System for Substandard and Falsified Medical Products
+For further information, please visit our website:
+https://www.who.int/medicines/regulation/ssffc/en/

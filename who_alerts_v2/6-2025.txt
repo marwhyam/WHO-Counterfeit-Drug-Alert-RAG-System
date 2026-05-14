@@ -1,0 +1,44 @@
+ALERT NUMBER: 6/2025
+DRUG NAME: SIMULECT (basiliximab) for injection
+ALERT TYPE: falsified
+DATE: 9 December 2025
+COUNTRIES: Bulgaria, United States, France, Rwanda
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/09-12-2025-medical-product-alert-n-6-2025--falsified-simulect-(basiliximab)-for-injection
+TITLE: 9 December 2025Medical product alertMedical Product Alert N°6/2025: Falsified SIMULECT (basiliximab) for injection
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to falsified SIMULECT (basiliximab) for injection. The falsified product has been detected in Rwanda, Bulgaria, and Türkiye, and was reported to the WHO in December 2024 and November 2025.
+SIMULECT (basiliximab) is an immunosuppressant medicine classified as a monoclonal antibody. It is indicated for the prevention of acute organ rejection in adults and children undergoing kidney transplantation. SIMULECT is supplied as a powder vial with or without a water for injection (solvent) ampoule for reconstitution, and is administered either as an intravenous infusion or as an injection, usually in a hospital setting.
+How to identify the falsified product
+This product is falsified because it deliberately misrepresents its identity, composition, and source. The genuine manufacturer has confirmed that the products listed in this alert are falsified. A sample of the falsified product was forensically tested by the genuine manufacturer and found to contain no active pharmaceutical ingredients; instead, it contained ascorbic acid. The genuine manufacturer also identified several visual discrepancies on the packaging:
+Batch number
+: The falsified product shows batch number
+SFYD2
+, which is not a valid batch number for SIMULECT. Any SIMULECT product with batch number
+SFYD2
+should be considered falsified.
+Folding box and label information
+: The falsified product label displays the National Drug Code NDC 0078-0331-84. While the National Drug Code (NDC) is a unique identifier for medicines marketed in the United States of America, the label contains other discrepancies compared to genuine SIMULECT packaging.
+The genuine product lists the ingredient dose in milligrams using “mg,” while the
+falsified product uses “MG”
+.
+The genuine product lists the country of manufacture as “Product of France” while
+the falsified product lists the country of manufacture as “Product of Switzerland or France”
+.
+Risks
+This falsified product should be considered unsafe, and its use may pose severe and potentially life-threatening risks to patients, including:
+Therapeutic failure leading to organ rejection.
+Inadequate or excessive immune suppression, increasing vulnerability to opportunistic infections.
+Life-threatening allergic or toxic reactions from unknown or harmful ingredients.
+Risk of infection from unsterile injections.
+It is important to detect and remove any falsified SIMULECT from circulation to prevent harm to patients.
+Advice to health-care professionals, regulatory authorities, and the public
+Health-care professionals should report any unexpected adverse reactions, lack of therapeutic effects, or quality defects to their National Regulatory Authorities or National Pharmacovigilance Centre.
+WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products. Increased surveillance of the informal/unregulated market, including online platforms is also advised. National regulatory authorities/health authorities/law enforcement are advised to immediately notify WHO if the falsified product is detected in their country. If you are in possession of this product, WHO recommends that you do not use it. If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Product subject of WHO Medical Product Alert N°6/2025

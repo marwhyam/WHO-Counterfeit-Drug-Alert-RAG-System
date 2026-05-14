@@ -1,0 +1,44 @@
+ALERT NUMBER: 4/2020
+DRUG NAME: Chloroquine (Update)
+ALERT TYPE: falsified
+DATE: 9 April 2020
+COUNTRIES: Congo, Niger, France, Cameroon, Burkina Faso
+WHO REGIONS: AFRO, EURO
+SOURCE URL: https://www.who.int/news/item/09-04-2020-medical-product-alert-n4-2020
+TITLE: 9 April 2020Medical product alertMedical Product Alert N°4/2020: Falsified Chloroquine (Update)
+
+============================================================
+
+UPDATE
+(of 9 June 2020) to Medical Product Alert n°4/2020
+This Medical Product Alert relates to several confirmed falsified chloroquine products circulating in the WHO regions of Africa and Europe. New reports of falsified chloroquine which have been validated by WHO are included in this update.
+Between 31 March and 2 April 2020, the WHO
+global surveillance and monitoring system on substandard and falsified (SF) medical products
+received 14 reports of confirmed falsified chloroquine products from 5 countries: Burkina Faso, Cameroon, Democratic Republic of Congo, France, and Niger. All reported products were identified at patient level and all have been confirmed as falsified.
+Widespread vigilance is required from all countries, regardless of where the product was originally identified.
+All the products (with photographs) listed in the
+annex
+are confirmed as falsified, on the basis that they deliberately/fraudulently misrepresent their identity, composition or source. Indeed, it can be noted that:
+either
+: the products do not contain the correct amount of the active pharmaceutical ingredient, based on the results of preliminary or full compendial analysis;
+and/or
+: the products were not produced by the manufacturer whose name is stated on the product labels, and the variable data (batch number and dates) of the above products do not correspond to genuine manufacturing records;
+and/or
+: the manufacturer whose name is stated on the product labels does not exist.
+Chloroquine phosphate or sulfate is referenced on the WHO Model List of Essential Medicines for the treatment of Plasmodium vivax infection (malaria). Large clinical trials are under way to generate the robust data needed to establish the efficacy and safety of chloroquine and hydroxychloroquine in the treatment of COVID-19. These medicines are currently authorized for malaria and certain autoimmune diseases and it is important that patients do not face shortages caused by stockpiling or use outside the authorized indications. Both chloroquine and hydroxychloroquine can have serious side effects, especially at high doses or when combined with other medicines.
+The
+SOLIDARITY trial
+, led by WHO, is reviewing potential treatments for COVID-19. Please refer to
+WHO medical product alert n°3/2020
+for general information on falsified medical products in relation to the management
+of COVID-19.
+WHO requests increased vigilance within the supply chains of countries likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+All medical products must be obtained from licensed, authentic and reliable sources. Their authenticity and condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above products, please do not use. If you have used these falsified products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional, and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact:
+rapidalert@who.int
+.
+Go to Annex
+WHO Global Surveillance and Monitoring System for Substandard and Falsified Medical Products
+For more information, please visit:
+www.who.int/medicines/regulation/ssffc/en/

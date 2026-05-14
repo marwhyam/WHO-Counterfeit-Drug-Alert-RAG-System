@@ -1,0 +1,46 @@
+ALERT NUMBER: 1/2025
+DRUG NAME: (contaminated) OXYCONTIN 80mg
+ALERT TYPE: both
+DATE: 12 March 2025
+COUNTRIES: Poland
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/12-03-2025-medical-product-alert-n-1-2024--falsified-(contaminated)-oxycontin-80mg
+TITLE: 12 March 2025Medical product alertMedical Product Alert N°1/2025: Falsified (contaminated) OXYCONTIN 80mg
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to one batch of falsified OXYCONTIN 80mg (oxycodone hydrochloride). The falsified product was detected in the unregulated market in Switzerland and reported to WHO in February 2025 by the genuine manufacturer MUNDIPHARMA. The falsified product imitates genuine OXYCONTIN 80mg authorized in Poland.
+OXYCONTIN (oxycodone hydrochloride) is a semi-synthetic opioid indicated for the treatment of moderate to severe pain.
+Laboratory testing of samples of the falsified product was conducted by the Drug Information Centre of the City of Zurich (DIZ), Switzerland. DIZ’s drug checking service determined that the tablets did not contain oxycodone, but a synthetic opioid likely to be a nitazene compound.
+Nitazene derivatives (e.g., metonitazene, isotonitazene, fluonitazene) are potent synthetic opioids, primarily used in research due to their high addiction potential and severe side-effects.  These substances can be hundreds of times stronger than oxycodone, posing a high overdose risk. Limited information is available on their risks, toxicity, side-effects, and long-term consequences.
+How to identify this falsified product
+This product is confirmed as falsified because it deliberately misrepresents its identity, composition, and source.
+The falsified product imitates OXYCONTIN 80mg manufactured and marketed by MUNDIPHARMA in the Polish market. MUNDIPHARMA has confirmed that the product, subject of this alert, is falsified and was not produced by their company
+In identifying this product as falsified, the following visible discrepancies were noted
+The placement of the batch and expiry date on the falsified product is incorrect.
+On the falsified product the batch and expiry date are visible on the front side of the blister strip.
+Genuine OXYCONTIN has the batch and expiry date visible on the back of the blister strip.
+On the falsified product the expiry date is on the left and the batch number on the right.
+Genuine OXYCONTIN has the batch number on the left and the expiry date on the right.
+Please refer to the
+Annex
+of this Alert for full details of the falsified product.
+Risks
+This falsified product has been found to contain undeclared nitazene compounds, which pose a significant risk due to the high likelihood of adverse events, even in small doses. Nitazenes produce effects similar to other opioids.  Their
+high potency
+carries a high risk of
+overdose
+and death. Using nitazene derivatives has been linked to several deaths. Mixing them with other depressants like alcohol or benzodiazepines can be very dangerous, leading to severe effects like respiratory depression, low blood pressure, coma, or even death.
+This falsified product poses a particular risk to individuals with
+substance use disorders
+who may perceive this falsified product as a safe and quality assured medicine. Falsified OXYCONTIN has previously been reported to WHO from Poland, Switzerland, Sweden, and Ireland.
+Advice to health-care professionals, regulatory authorities and the
+public
+Health-care professionals should report adverse effects, lack of expected effects, or suspected falsification to the National Regulatory Authorities or National Pharmacovigilance Centre. If an overdose from OXYCONTIN is suspected (especially from a product bought on the informal market), be aware that nitazene poisoning is a possibility.
+WHO advises increased surveillance and diligence in supply chains and the informal market in countries/regions likely to be affected. Authorities should notify WHO immediately if these falsified products are detected in their country.
+WHO advises against using these products. If you or someone you know has used them or experienced adverse effects, seek immediate medical advice or contact a poison control center.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Products subject of WHO Medical Product Alert N°1 /2025

@@ -1,0 +1,32 @@
+ALERT NUMBER: 1/2016
+DRUG NAME: phenobarbitone tablets
+ALERT TYPE: falsified
+DATE: 5 February 2016
+COUNTRIES: Guinea, Liberia
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/05-02-2016-medical-product-alert-n-4-2017--falsified-phenobarbitone-tablets
+TITLE: 5 February 2016Medical product alertMedical Product Alert N°1/2016: Falsified phenobarbitone tablets
+
+============================================================
+
+This Medical Product Alert relates to the circulation of falsified versions of phenobarbitone (also known as phenobarbital) in West Africa.
+Phenobarbital is used as a treatment against epilepsy and is frequently dispensed free of charge in community-care health centres.
+In December 2015, the Liberia Medicines and Health Products Regulatory Authority (LMHRA) notified WHO of two suspect products that supposedly contained tablets of 100 mg of phenobarbitone.
+These products were detected through a lack of efficacy (patients treated for epilepsy had an increased recurrence of seizures during the course of their treatment with these products).
+Details and photographs are available
+here
+.
+Investigation of the WHO SSFFC Medical Products database identified that a similar product was found in Guinea Bissau in 2013, with almost identical packaging and labelling and bearing the same batch number. The product found in Guinea Bissau was tested by an independent laboratory and analysis indicated that the product contained no active pharmaceutical ingredient. Authorities in Guinea Bissau had been notified.
+This product was also detected through a lack of efficacy (patients treated for epilepsy had an increased recurrence of seizures during the course of their treatment with these products).
+Details and photographs are available
+here
+.
+WHO requests increased vigilance within the supply chains of countries likely to be affected by these falsified products. That vigilance should include hospitals, clinics and pharmacies in addition to drug stores, street markets and roadside vendors.
+If you are in possession of the same products as shown above, please do not use, contact a Pharmacist or a Doctor as soon as possible for advice and report the incident to your National Medicines Regulatory Authority.
+If you think you have taken this product, please seek medical advice immediately.
+If you have any information concerning the supply of this product please, contact
+rapidalert@who.int
+.
+Details and photographs of both products are available
+here
+.

@@ -1,0 +1,115 @@
+ALERT NUMBER: 
+DRUG NAME: 
+ALERT TYPE: 
+DATE: 16 March 2026
+COUNTRIES: India, Philippines
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/16-03-2026-medical-product-alert-n-1-2026--who-information-notice-for-in-vitro-diagnostic-medical-devices
+TITLE: 16 March 2026Medical product alertWHO Information Notice for IVD Users 2026/01
+
+============================================================
+
+Products:
+In vitro diagnostic medical devices (IVDs) manufactured by Meril Diagnostics Pvt. Ltd at the Manufacturing Sites (as defined below) and listed in Annex 1, (collectively the “Products”).
+WHO-identifier:
+2026/01-02
+Type of action:
+Information for national regulatory authorities (NRAs), and users
+[1]
+including control programmes, their implementing partners and procurement agencies (collectively the “Users”).
+Date
+: 16 March 2026
+Attention
+: National malaria, HIV, and sexually transmitted infection (STI) control programme managers and their implementing partners, procurement agencies, national regulatory authorities for IVDs and clinical testing sites.
+Purpose:
+To alert Users and NRAs of malaria, HIV, and HIV/syphilis rapid diagnostic tests (RDTs) of concerns for Products manufactured by Meril Diagnostics Pvt. Ltd. at specified Manufacturing Sites located at: D1-D3, Meril Park, Survey No: 135/2/B & 174/2, Muktanand Marg, Chala, Vapi, 396191 India (site 1) and Meril Academy, Block No- MD1, Survey No.- 1231, 1232 & 1228, Muktanand Marg, Balitha, Vapi, 396191 India (site 2) (collectively, the “Manufacturing Sites”).
+Description of the situation:
+As part of the WHO pre- and post-prequalification product review process
+[2]
+, WHO’s Prequalification Unit conducted a special (for-cause) inspection of the quality management system (QMS) at the Manufacturing Sites from 14 to 16 October 2025. A for‑cause inspection is a non-routine inspection triggered by specific concerns or evidence of potential non‑compliance or product quality issues.
+During that inspection, critical nonconformities across the QMS at the Manufacturing Sites were identified that may pose a risk to patient safety for the Products. As a result:
+WHO issued a Notice of Concern on 19 December 2025, which is available at:
+https://extranet.who.int/prequal/sites/default/files/document_files/NOC_MerilDiagnostics_19December2025.pdf
+. The Notice of Concern will remain active on the WHO website until WHO confirms that all applicable requirements for WHO Prequalification of In Vitro Diagnostics have been met.
+Products that had been prequalified by WHO were subsequently delisted from the list of prequalified IVDs on 5 January 2026.:
+https://extranet.who.int/prequal/vitro-diagnostics/prequalified/in-vitro-diagnostics
+.
+In addition to the WHO Prequalification Unit inspection findings, the WHO Malaria Rapid Diagnostic Test (RDT) Lot Testing Laboratory at the Research Institute for Tropical Medicine in the Philippines assessed 29 lots of Meril Diagnostics malaria RDTs over the past year. The RDT lot testing did not report any failures.
+Advice on actions to be taken by stakeholders
+Below is a non-exhaustive list of possible actions that Users and NRAs may consider in light of the situation. Decisions regarding the procurement, acceptance, deployment, distribution or continued use of the Products remain the sole responsibility of NRAs and Users (including
+disease programmes, procurers and implementing partners) based on such factors as: national regulatory requirements, operational needs, availability of alternative products, risk-benefit assessment in the local context, and other relevant considerations. WHO is not responsible for any of these assessments or decisions.
+Users are encouraged to follow the advice of relevant national regulatory authorities, particularly those responsible for the regulation of medical devices including in vitro diagnostics.
+Possible actions that could be taken by Users:
+Following consideration of the risks and benefits of continued use or not:
+-        for Products in health facilities, if suitable alternative is available in-country inside the supply chain, strongly consider switching to alternative products.
+-        for Products in country but not yet deployed, if suitable alternative is available in-country inside the supply chain, strongly consider switching to alternative products.
+-        review all orders of Products, including in process, in production, pending shipment, in transit, in country but not yet accepted, if suitable alternative is available, strongly consider switching to the alternative products.
+Review the WHO list of prequalified in vitro diagnostic products, and WHO programmatic guidance and technical resources such as the WHO Toolkit to optimize HIV testing algorithms for HIV RDTs
+[3]
+.
+Report if any product problem and/or adverse event is detected with respect to the Products (see definitions in table below).
+A
+product problem
+is something that happens to the IVD itself.
+The following product problems should be reported:
+Packaging (e.g. foil pouch, buffer vial/bottle, desiccant, shipping container) – damaged, defective, suspect tampered;
+Labelling (e.g. pouch label, instructions for use) – insufficient, illegible, missing;
+Components (e.g. specimen transfer device) – defective, incorrect, or missing;
+Unexpected increase in invalid results, for example more than one invalid test per box of 25 tests.
+Note: this list is non-exhaustive.
+An
+adverse event
+is the health effect on the patient, user or other person.
+The following adverse events should be reported:
+A false negative test result confirmed by another reliable testing method;
+A series of false positive test results (more than two) confirmed by another reliable testing method and;
+Non-reproducible results.
+Note: this list is non-exhaustive
+Reporters should without delay:
+A. Send a user feedback form to the manufacturer (e-mail:
+diagnostics@merillife.com
+)
+Preferably using WHO form at the following web address
+https://cdn.who.int/media/docs/default-source/substandard-and-falsified/pms_user_feedback_form.docx?sfvrsn=3856959_19
+B. Copy the same user feedback form to WHO (e-mail:
+rapidalert@who.int
+).
+Special consideration for malaria Products:
+4. If malaria RDTs are already in a country where there are no suitable alternatives, strongly consider requesting
+WHO lot testing
+prior pre or post deployment.
+5. Consider the risk-benefit profile of continuing to use malaria RDTs that are currently deployed, on order or in stores.
+In the case that the risk-benefit profile favours continued use until product replacement is achieved: if the RDT results are negative and no alternative diagnosis is available, advise patients to return for re-evaluation or re-testing
+[4]
+if their symptoms worsen or their condition does not improve. All cases of suspected severe malaria should be treated empirically, and health workers should be reminded to treat all faint/weak test lines as positive results.
+Possible actions that could be taken by national regulatory authorities
+:
+Review the information provided through this information notice and the associated Notice of Concern in the context of their regulatory responsibilities.
+Consider whether actions or communication strategies require tailoring according to local approvals or recommendations for product use, such as for product use by health facilities versus product use by the public for self-testing.
+For malaria Products:
+Consider whether additional verification, market surveillance activities, or communication with national stakeholders is appropriate within their jurisdiction.
+Determine if any regulatory actions - such as enhanced monitoring, temporary restrictions, or requests for manufacturer clarification - are warranted based on national legislation and risk assessment.
+Communicate relevant outcomes to all Users.
+Transmission of this WHO Information Notice:
+This notice should be communicated to all those who need to be aware within an organization or to any organization where the potentially affected Products have been deployed and used.
+Contact details for further information:
+Market Surveillance and Control Team, Regulation and Safety Unit, Regulation and Prequalification Department, World Health Organization, e-mail:
+rapidalert@who.int
+Annex 1. Implicated Product names
+The following Products manufactured by Meril Diagnostics Ltd. at the Manufacturing Sites that are listed in the WHO Information Notice, located at: D1-D3, Meril Park, Survey No: 135/2/B & 174/2, Muktanand Marg, Chala, Vapi, 396191 India (site 1) and Meril Academy, Block No- MD1, Survey No.- 1231, 1232 & 1228, Muktanand Marg, Balitha, Vapi, 396191 India (site 2):
+Product names
+One Step test for Malaria Pf/Pv Ag MERISCREEN Malaria Pf/Pv Ag
+One Step test for Malaria Pf HRP-II Ag MERISCREEN Malaria Pf HRP-II Ag
+One Step test for Malaria Pf/Pan Ag MERISCREEN Malaria Pf/Pan Ag
+MERISCREEN HIV 1-2 WB
+Meriscreen HIV+ Syphilis Antibody Test
+HIVFIND Whole Blood HIV 1/2 Antibody Detection Self-Test
+Meriscreen Malaria Pf HRP-ll/pLDH Ag
+[1]
+in the context of adverse event reporting to include patients, operators, and any other persons affected by a medical device incident.
+[2]
+https://www.who.int/teams/regulation-prequalification/incidents-and-SF/safety-information-for-medical-devices-including-in-vitro-diagnostics
+[3]
+https://www.who.int/tools/optimizing-hiv-testing-algorithms-toolkit
+[4]
+re-testing may be with the same or alternative RDT or by microscopy

@@ -1,0 +1,46 @@
+ALERT NUMBER: 5/2021
+DRUG NAME: COVISHIELD vaccine (Update)
+ALERT TYPE: falsified
+DATE: 31 August 2021
+COUNTRIES: India, Uganda, Chad, Myanmar
+WHO REGIONS: AFRO, SEARO
+SOURCE URL: https://www.who.int/news/item/31-08-2021-medical-product-alert-n-5-2021-falsified-covishield-vaccine
+TITLE: 31 August 2021Medical product alertMedical Product Alert N°5/2021: Falsified COVISHIELD vaccine (Update)
+
+============================================================
+
+UPDATE 31-08-2021
+Alert Summary
+This WHO Medical Product Alert refers to falsified COVISHIELD (ChAdOx1 nCoV-19 Corona Virus Vaccines
+(Recombinant)) identified in the WHO African Region, and the WHO South-East Asia Region. The falsified
+products were reported to WHO in July and August 2021. The genuine manufacturer of COVISHIELD (Serum
+Institute of India Pvt. Ltd.) has confirmed that the products listed in this alert are falsified. These falsified products have
+been reported at the patient level in Uganda, India and Myanmar.
+Genuine COVISHIELD vaccine is indicated for active immunization of individuals 18 years or older for the
+prevention of coronavirus disease caused by the SARS-CoV-2 virus. The use of genuine COVID-19 vaccines
+should be in accordance with official guidance from national regulatory authorities.
+Falsified COVID-19 vaccines pose a serious risk to global public health and place an additional burden on
+vulnerable populations and health systems. It is important to detect and remove these falsified products from
+circulation to prevent harm to patients.
+The products identified in this alert are confirmed as falsified on the basis that they deliberately/ fraudulently
+misrepresent their identity, composition or source:
+Batch 4121Z040 - the expiry date (10.08.2021) on this product is falsified
+COVISHIELD 2ml - the genuine manufacturer does not produce COVISHIELD in 2ml (4 doses).
+Batch 4126Z079 - the batch number      on this product is falsified and the product name: COVISHELD is  not the correct spelling
+Table 1: Products subject of WHO Medical Product Alert N°5/2021
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centers, wholesalers, distributors, pharmacies, and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory / health authorities are advised to immediately notify WHO if these falsified products are
+discovered in their country. If you have any information concerning the manufacture, distribution, or supply of
+these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical Product Alert N°5/2021
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

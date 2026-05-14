@@ -1,0 +1,69 @@
+ALERT NUMBER: 2/2020
+DRUG NAME: HIV rapid diagnostic tests
+ALERT TYPE: falsified
+DATE: 27 March 2020
+COUNTRIES: Kenya
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/27-03-2020-medical-product-alert-n-2-2020
+TITLE: 27 March 2020Medical product alertMedical Product Alert N°2/2020: Falsified HIV rapid diagnostic tests
+
+============================================================
+
+This Medical Product Alert relates to a confirmed falsified human immunodeficiency virus (HIV) in vitro diagnostic medical device (IVD) that has been identified circulating in Guyana and Kenya.
+Through its
+Global Surveillance and Monitoring System (GSMS)
+for substandard/falsified medical products, WHO was informed that at least 8,240 falsified rapid diagnostic tests to detect HIV-1/2 have been distributed in Guyana at end-user level. The product is Uni-Gold™ HIV and claims to be manufactured by
+Trinity Biotech plc. Subsequent reports revealed that the same falsified product is also circulating in Kenya.
+Uni-Gold™ HIV is a single-use rapid diagnostic test – an immunoassay for the qualitative detection of antibodies to HIV-1 and HIV-2 in serum, plasma and whole blood. Uni-Gold™ HIV is intended for use in point of care settings as an aid in diagnosis of HIV-1 and HIV-2 infection.
+The
+WHO testing strategy
+recommends three HIV reactive test results to confirm an HIV-positive status in a patient. The use of this falsified Uni-Gold™ HIV, subject of WHO medical product alert n°2 of 2020, is likely to lead to delayed diagnosis of HIV status.
+Table 1: Specific details of the falsified product Uni-Gold™ HIV, subject of WHO Medical Product Alert n°2 of 2020
+Product Name
+Uni-Gold™ HIV
+Uni-Gold™ HIV
+Product code
+1206502
+1206502
+Lot Number
+HIV7120026
+HIV6120030
+Expiry Date
+5 DEC 2020
+29 JUL 20
+Stated manufacturer
+Trinity Biotech
+Trinity Biotech
+The packaging of this falsified HIV test kit is in English.
+The genuine manufacturer (Trinity Biotech plc) has confirmed that:
+They did not manufacture the falsified product in Table 1.
+Genuine lot HIV7120026 and HIV6120030 was made by Trinity Biotech plc and expired in 2019.
+The expiry date is incorrect and does not correspond with their batch manufacturing records.
+Photographs of the above-referenced products are available on page 2 and advice to the public is available on page 3.
+Figure 1 – Falsified Uni-Gold™ HIV, lot number HIV7120026, displaying falsified expiry date
+Figure 2 – Falsified Uni-Gold™ HIV, displaying labelling inconsistencies
+Figure 3 – Falsified Uni-Gold™ HIV, lot number HIV6120030, displaying falsified expiry date
+Advice on action to be taken by end-users:
+Please check to see if any Uni-Gold™ HIV test kits in your facility have lot number HIV7120026 or HIV6120030.
+If you are in possession of these falsified test kits with lot number HIV7120026 or HIV6120030.
+Please do not use.
+Please immediately contact the organization that supplied you with the product (either your HIV testing programme, nongovernmental organization or local distributor).
+Please contact Trinity Biotech plc
+Phone : +353 1 276 9800
+E-mail :
+hiv@trinitybiotech.com
+Please contact your national health authorities
+All medical products must be obtained from authentic and reliable sources. Their authenticity and condition should be carefully checked.
+Advice on action to be taken by national health authorities:
+WHO requests increased scrutiny within the supply chains of all countries, particularly at testing sites (health facilities, community-based), clinical laboratories, medical stores/warehouses, and at the facilities of relevant economic operators (agents,
+    authorized representatives, distributors, wholesalers, etc.).
+If falsified test kits with lot numbers HIV7120026 or HIV6120030 are discovered, please do not use.
+National health authorities are asked to immediately inform WHO, if these falsified products are discovered in their country using the
+WHO IVD complaint form
+.
+If you have any information concerning the manufacture, distribution, or supply of this product, please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit our website:
+https://www.who.int/medicines/regulation/ssffc/en/

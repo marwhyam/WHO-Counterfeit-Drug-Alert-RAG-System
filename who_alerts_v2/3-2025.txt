@@ -1,0 +1,34 @@
+ALERT NUMBER: 3/2025
+DRUG NAME: IMFINZI (durvalumab) injection 500mg/10ml
+ALERT TYPE: falsified
+DATE: 14 May 2025
+COUNTRIES: Lebanon, India, Iran, Egypt
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/14-05-2025-medical-product-alert-n-3-2025--falsified-imfinzi-(durvalumab)-injection-500mg-10ml
+TITLE: 14 May 2025Medical product alertMedical Product Alert N°3/2025: Falsified IMFINZI (durvalumab) injection 500mg/10ml
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to three batches of falsified IMFINZI (durvalumab) injection 500mg/10ml. The falsified products have been detected in the Islamic Republic of Iran and Türkiye. These falsified products were reported to WHO in March 2025.
+WHO previously issued
+Medical Product Alert N°5/2024
+regarding another falsified batch of IMFINZI that was detected in Armenia, Lebanon, and Türkiye.
+IMFINZI is a sterile concentrate for infusion. It contains the active pharmaceutical ingredient durvalumab, which is a monoclonal antibody. As monotherapy, it is indicated for the treatment of Non-Small Cell Lung Cancer (NSCLC) in adults.
+How to identify these falsified products
+These products are falsified as they deliberately misrepresent their identity, composition, and source. The genuine manufacturer, AstraZeneca, has identified multiple visual discrepancies in the falsified products. AstraZeneca has confirmed that the products mentioned in this alert are indeed falsified.  Check for the following and see the Annex below for more details:
+Lot BAZR
+– This is a genuine lot number for distribution only in India. The falsified product shows discrepancies in the packaging artwork and text placement, with some text missing.
+Lot BBEG
+– This is a genuine lot number for distribution only in Egypt. The falsified product shows discrepancies in the packaging artwork and text placement, with some text missing. The product price (in Egyptian Pounds) is also missing.
+Lot AVZT
+– This lot number is not recognized by the genuine manufacturer. Any IMFINZI product with this lot number is considered falsified.
+Risks
+These falsified products should be considered unsafe, and their use may be life-threatening in some circumstances. The use of these falsified IMFINZI injections may lead to ineffective or delayed treatment. It is important to detect and remove any falsified IMFINZI (durvalumab) injections from circulation to prevent harm to patients.
+Advice to health-care professionals, regulatory authorities and the public
+Health-care professionals should report any incident of adverse effects, lack of expected effects or suspected falsification to the National Regulatory Authorities or National Pharmacovigilance Centre.
+WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities/law enforcement are advised to immediately notify WHO if the falsified product is detected in their country. If you are in possession of any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a health-care professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Products subject to WHO Medical Product Alert N°3 /2025

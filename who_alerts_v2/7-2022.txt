@@ -1,0 +1,52 @@
+ALERT NUMBER: 7/2022
+DRUG NAME: (contaminated) paediatric liquid dosage medicines
+ALERT TYPE: substandard
+DATE: 2 November 2022
+COUNTRIES: Indonesia
+WHO REGIONS: SEARO
+SOURCE URL: https://www.who.int/news/item/02-11-2022-medical-product-alert-n-7-2022-substandard-(contaminated)-paediatric-liquid-dosage-medicines
+TITLE: 2 November 2022Medical product alertMedical Product Alert N°7/2022: Substandard (contaminated) paediatric liquid dosage medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to eight substandard products, identified in the WHO Region of South-East Asia. These products were identified in Indonesia and publicly reported by the national regulatory authority (Badan POM) on 20 and 30 October 2022[1]. Substandard medical products are products that fail to meet either their quality standards or specifications and are, therefore "out of specification"[2].
+The eight products are
+Termorex syrup (batch
+AUG22A06 only),
+Flurin DMP syrup, Unibebi Cough Syrup, Unibebi Demam Paracetamol Drops, Unibebi Demam Paracetamol Syrup, Paracetamol Drops (
+manufactured by PT Afi Farma
+), Paracetamol Syrup (mint) (
+manufactured by PT Afi Farma
+) and Vipcol Syrup
+. Please see the annex for further details.
+These products contain unacceptable amounts of ethylene glycol and/or diethylene glycol as contaminants: this has been confirmed by laboratory analysis of samples by the authorities in Indonesia. To date, these products have been identified in Indonesia. They may however have marketing authorizations in other countries. These products may have been distributed, through informal markets, to other countries or regions.
+[1] Badan POM Press Release:
+https://www.pom.go.id/penjelasan-publik/informasi-keempat-hasil-pengawasan-bpom-terhadap-sirup-obat-yang-diduga-mengandung-cemaran-etilen-glikol-eg-dan-dietilen-glikol-deg
+and
+https://www.pom.go.id/siaran-pers/tindakan-tegas-bpom-dan-bareskrim-polri-terhadap-industri-farmasi-produsen-sirup-obat-yang-tidak-memenuhi-standar-dan-atau-persyaratan-keamanan-khasiat-dan-mutu
+[2] WHO definitions:
+https://www.who.int/teams/regulation-prequalification/incidents-and-SF/background/definitions
+Risks
+Ethylene glycol and diethylene glycol are toxic to humans when consumed and can prove fatal.
+The substandard products referenced in the annex of this Alert are unsafe and their use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state, and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the public
+It is important to detect and remove these substandard products from circulation to prevent harm to patients.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these products. Increased surveillance of the informal/unregulated market is also advised. National regulatory/health authorities are advised to immediately notify WHO if these substandard products are discovered in their respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients including propylene glycol, polyethylene glycol, sorbitol, and/or glycerin/glycerol, are urged to test for the presence of contaminants such as ethylene glycol and diethylene glycol before use in medicines.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you have these substandard products,
+please DO NOT use them
+. If you, or someone you know, have used them or suffered any adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+If you have any information concerning the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+Please
+see annexes 1 and 2
+for details of the substandard products referenced in Alert N°7/2022.
+Alert n°7/2022 may be updated if further relevant information becomes available
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

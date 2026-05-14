@@ -1,0 +1,22 @@
+ALERT NUMBER: 4/2018
+DRUG NAME: impurity discovered in valsartan
+ALERT TYPE: 
+DATE: 18 July 2018
+COUNTRIES: China
+WHO REGIONS: EURO
+SOURCE URL: https://www.who.int/news/item/18-07-2018-medical-product-alert-n-4-2018--impurity-discovered-in-valsartan
+TITLE: 18 July 2018Medical product alertMedical Product Alert N°4/2018: impurity discovered in valsartan
+
+============================================================
+
+Medicines containing valsartan are used to treat patients with high blood pressure to reduce complications such as heart attack and stroke. It is also used in patients who have had heart failure or a recent heart attack.
+Following the identification of an unexpected impurity discovered in valsartan produced by Zhejiang Huahai Pharmaceuticals, Linhai, China, EU Member States, USA, and a number of other countries have recalled medicines containing valsartan supplied by Zhejiang Huahai as a precautionary measure. The European Medicines Agency (EMA) has also launched a review of medicines in the EU containing valsartan supplied by Zhejiang Huahai Pharmaceuticals.
+The impurity discovered is N-nitrosodimethylamine (NDMA). NDMA is classified as a probable human carcinogen (a substance that could cause cancer). The presence of NDMA is suspected to be related to changes in the way the active pharmaceutical ingredient was manufactured. All batches of valsartan manufactured by Zhejiang Huahai Pharmaceuticals since July 2012 are expected to be affected.
+EMA’s review will investigate the levels of NDMA in medicines containing valsartan manufactured by Zhejiang Huahai, its possible impact on patients who have been taking them and what measures can be taken to reduce or eliminate the impurity from future batches produced by the company. As a precaution, the review will also consider whether other valsartan medicines may be affected.
+National medicine regulatory authorities worldwide are requested to identify manufacturers that produce medicines containing valsartan for their markets and establish if the active pharmaceutical ingredient was supplied by Zhejiang Huahai. If so, consideration should be given to the precautionary recall of the medicines. In the case that a recall leads to a local shortage of valsartan-containing medicinal products, ensuring the availability of a different anti-hypertensive medicine should be considered as an option.
+EMA has advised, while further assessment is needed, there is no immediate risk and patients taking valsartan are advised not to stop their treatments unless they have been advised to do so by their pharmacist or doctor. Healthcare professionals should follow specific advice from national authorities concerning medicines in their country.
+The World Health Organization will update this alert as more information emerges from the review being conducted by the EMA. Further information is available on the
+EMA website
+or contact
+rapidalert@who.int
+.

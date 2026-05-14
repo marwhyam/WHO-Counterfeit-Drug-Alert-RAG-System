@@ -1,0 +1,58 @@
+ALERT NUMBER: 1/2019
+DRUG NAME: Rabies Vaccines
+ALERT TYPE: falsified
+DATE: 1 February 2019
+COUNTRIES: Philippines
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/01-02-2019-medical-product-alert-n-1-2019
+TITLE: 1 February 2019Medical product alertMedical Product Alert N° 1/2019: Falsified Rabies Vaccines
+
+============================================================
+
+This Medical Product Alert relates to falsified Verorab®
+    vaccines that have been identified in the Philippines and reported to
+    WHO. This vaccine is used for the prevention of rabies in children and
+    adults. It can be used to protect those who are at risk of exposure to
+    rabies (pre-exposure vaccination) or to prevent the development of
+    rabies after exposure has occurred, usually following the bite of an
+    animal suspected of having rabies (post-exposure prophylaxis). Its
+    genuine version is manufactured by Sanofi Pasteur.
+Rabies is a vaccine-preventable viral disease that is almost
+    always fatal following the onset of clinical symptoms. Rabies is present
+    on all continents, with over 95% of human deaths occurring in the Asia
+    and Africa regions.
+In December 2018, the Philippines Food and Drug Administration
+    (FDA) issued a public health warning concerning falsified Verorab®
+    vaccines circulating in the country. Since that date, a further batch of
+    falsified Verorab® vaccines has been reported. Investigations are
+    ongoing and laboratory analysis is underway to better assess the
+    potential risk to public health.
+Two falsified vaccines have so far been discovered and their details and available photographs are shown below.
+It should be noted that:
+The stated manufacturer, Sanofi Pasteur, has confirmed they did not manufacture these falsified vaccines.
+Variable data shown in this alert do not correspond to the genuine manufacturer records.
+There have been no known adverse reactions reported to WHO at this stage.
+WHO requests increased vigilance within the supply chains of
+    countries likely to be affected by these falsified vaccines. Increased
+    vigilance should include hospitals, clinics, health centres,
+    wholesalers, distributors, pharmacies and any other suppliers of
+    vaccines.
+If you are in possession of the above vaccines, please do not use.
+If you have used these falsified vaccines, or if you suffer an adverse
+    event having used these vaccines, please seek immediate advice from a
+    qualified healthcare professional, and ensure they report the incident
+    to your local Ministry of Health/National Medicines Regulatory
+    Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from authentic and
+    reliable sources. Their authenticity and condition should be carefully
+    checked. Seek advice from a healthcare professional in case of doubt.
+National health authorities are asked to immediately notify
+    WHO if these falsified vaccines are discovered in their country. If you
+    have any information concerning the manufacture, distribution, or supply
+    of these vaccines, please contact:
+rapidalert@who.int
+Substandard and Falsified (SF) Medical Products
+All WHO Drug Alerts are available at the following link:
+Full List of WHO Medical Product Alerts
+To sign up for WHO Medical Product Alerts, please visit:
+https://www.who.int/teams/regulation-prequalification/regulation-and-safety/rss

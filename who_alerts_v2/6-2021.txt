@@ -1,0 +1,38 @@
+ALERT NUMBER: 6/2021
+DRUG NAME: Pfizer-BioNTech COVID-19 Vaccine
+ALERT TYPE: falsified
+DATE: 4 November 2021
+COUNTRIES: Iran
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/04-11-2021-medical-product-alert-n-6-2021-falsified-pfizer-biontech-covid-19-vaccine
+TITLE: 4 November 2021Medical product alertMedical Product Alert N°6/2021: Falsified Pfizer-BioNTech COVID-19 Vaccine
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to one lot of falsified Pfizer-BioNTech COVID-19 Vaccine identified in the Islamic Republic of Iran and reported to WHO in October 2021. The genuine manufacturer of Pfizer-BioNTech COVID-19 Vaccine has confirmed that the product listed in this Alert is falsified. The falsified product was reported at the patient level outside authorized and regulated supply chains and authorized vaccination programmes in the Islamic Republic of Iran.
+Genuine Pfizer-BioNTech COVID-19 Vaccine is indicated for active immunization to prevent COVID-19 caused by the SARS-CoV-2 virus. The use of genuine COVID-19 vaccines should be in accordance with official guidance from national regulatory authorities.
+Falsified COVID-19 vaccines pose a serious risk to global public health and place an additional burden on vulnerable populations and health systems. The risk to patient health from falsified COVID-19 vaccines includes exposure to unknown and unsafe substances as well as delayed immunization against COVID-19 and could be life-threatening in some circumstances. It is important to detect and remove these falsified Pfizer-BioNTech COVID-19 Vaccines from circulation to prevent harm to patients.
+The products identified in this Alert are confirmed as falsified on the basis that they deliberately / fraudulently misrepresent their identity, composition, or source:
+The product label and artwork are inconsistent with genuine Pfizer-BioNTech COVID-19 Vaccines
+The expiry date on the labels (09/2021) is falsified and inconsistent with the expiry date on genuine Pfizer-BioNTech COVID-19 Vaccine Lot EH9899
+Table 1: Falsified Products subject of WHO Medical Product Alert N°6/2021
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies, and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above-falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional and to report the incident to the National Regulatory Authorities / National Pharmacovigilance Centre.
+National regulatory / health authorities are advised to immediately notify WHO if these falsified products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical Product Alert N°6/2021
+Falsified
+Pfizer-BioNTech COVID-19 Vaccine,
+Lot
+EH9899
+identified in the Islamic Republic of Iran
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

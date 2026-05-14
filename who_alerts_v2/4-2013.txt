@@ -1,0 +1,30 @@
+ALERT NUMBER: 4/2013
+DRUG NAME: Dextromethorphan
+ALERT TYPE: substandard
+DATE: 17 October 2013
+COUNTRIES: Pakistan, India
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/17-10-2013-medical-product-alert-n-4-2013--contaminated-dextromethorphan-update
+TITLE: 17 October 2013Medical product alertMedical Product Alert N°4/2013: Contaminated Dextromethorphan UPDATE
+
+============================================================
+
+Background
+On 24 January 2013,
+WHO Medical Product Alert N1/2013
+was published following the discovery in Pakistan of two types of locally produced cough syrups containing the contaminated active pharmaceutical ingredient (API) Dextromethorphan.
+This led to the death of approximately 50 persons in Pakistan, all with a history of drug addiction, who had been abusing dextromethorphan-containing syrups for many years without any reported unexpected adverse reactions.
+The subsequent investigation identified that both manufacturers in Pakistan were obtaining Dextromethorphan API from Konduskar Laboratories in India.
+More information is available
+here
+.
+Update
+On 26 September 2013, WHO HQ was notified of suspected drug intoxications involving 11 paediatric patients in Paraguay. All of the patients were experiencing influenza-like symptoms and had consumed medical products produced by a local manufacturer (INDUFAR C.S.I.A.) containing Dextromethorphan. The children were aged between 2-9 years and serious adverse reactions included altered consciousness, cyanosis, respiratory distress, and seizures. The onset of symptoms occurred between 2-7 hours after ingesting the Dextromethorphan. Since then the number of patients experiencing adverse reactions has risen to 44 confirmed cases, ranging in age from 5 months to 48 years. There has been one fatality that may be linked to this event.
+The Paraguayan Ministry of Health has issued warnings concerning the medicines thought to be connected to this incident.
+More details on this update are available
+here
+.
+For any further information concerning this Alert, or if you have imported Dextromethorphan from
+Konduskar Laboratories, India please, contact
+rapidalert@who.int
+.

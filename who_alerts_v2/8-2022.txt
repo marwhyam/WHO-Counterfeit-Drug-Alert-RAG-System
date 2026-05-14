@@ -1,0 +1,57 @@
+ALERT NUMBER: 8/2022
+DRUG NAME: (contaminated) METHOTREX 50mg
+ALERT TYPE: substandard
+DATE: 27 December 2022
+COUNTRIES: Lebanon, India
+WHO REGIONS: EMRO
+SOURCE URL: https://www.who.int/news/item/27-12-2022-medical-product-alert-n-8-2022-substandard-(contaminated)-methotrex
+TITLE: 27 December 2022Medical product alertMedical Product Alert N°8/2022: Substandard (contaminated) METHOTREX 50mg
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to one batch of substandard (contaminated) METHOTREX
+TM
+(methotrexate) 50mg, identified in two countries (Yemen and Lebanon) in the WHO Eastern Mediterranean region. Methotrexate is on the
+WHO model list of essential medicines
+and is indicated for the treatment of cancer and autoimmune diseases.
+Substandard medical products are products that fail to meet either their quality standards or specifications and are, therefore "out of specification"[1].
+Following adverse events in pediatric patients receiving METHOTREX
+TM
+50mg, the health authorities in both Yemen and Lebanon conducted microbiological testing on the remaining unopened vials of METHOTREX
+TM
+50mg. Results in both countries were positive for
+Pseudomonas aeruginosa,
+indicating contamination of the products.
+The stated manufacturer, CELON Laboratories Pvt Ltd., has confirmed to WHO that the batch number, manufacturing, and expiry dates combination referenced above match their internal records. At this stage, they have not had access to samples of the suspect products for their own confirmatory testing.
+[1] WHO definitions:
+https://www.who.int/teams/regulation-prequalification/incidents-and-SF/background/definitions
+Risks
+Methotrexate is a chemotherapy agent and immune system suppressant. It may be given by intrathecal, intramuscular, intravenous, or intra-arterial routes. Patients receiving methotrexate treatment may have weakened immune systems and be more vulnerable to opportunistic infections.
+Pseudomonas aeruginosa
+bloodstream infection is a serious infection that may lead to death and any product that has any contamination and is administered directly in the body would present serious risks to patients.
+METHOTREX
+TM
+50mg batch MTI2101BAQ was intended to be sold exclusively on the Indian market. METHOTREX
+TM
+50mg batch MTI2101BAQ available in Yemen and Lebanon was procured outside the regulated supply chain. Therefore, the stated manufacturer cannot guarantee the safety of this product which was not destined for these markets.
+However, it is likely that this product may have been distributed to other countries through informal markets. It is important to detect and remove this contaminated product from circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by this product. Increased surveillance of the informal/unregulated market is also advised. Competent authorities are advised to immediately notify the WHO if this product is discovered in their respective market.
+Manufacturers are urged to test for microbial contamination before releasing finished product batches for use.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you have these substandard products,
+please DO NOT use them
+. If you, or someone you know, have used them or suffered any adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+If you have any information concerning the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+Please
+see the annex
+for details of the substandard products referenced in Alert N°8/2022.
+Alert n°8/2022 may be updated if further relevant information becomes available
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

@@ -1,0 +1,75 @@
+ALERT NUMBER: 8/2023
+DRUG NAME: (contaminated) syrup and suspension medicines
+ALERT TYPE: substandard
+DATE: 7 December 2023
+COUNTRIES: Pakistan, Australia
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/07-12-2023-medical-product-alert-n-8-2023--substandard-(contaminated)-syrup-and-suspension-medicines
+TITLE: 7 December 2023Medical product alertMedical Product Alert N°8/2023: Substandard (contaminated) syrup and suspension medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to five different syrup and suspension medicines initially detected in the Maldives and Pakistan and notified to WHO on 8 November 2023. Some of the affected products have also been detected in Belize, Fiji and Lao People’s Democratic Republic.
+The five products are ALERGO Syrup, EMIDONE Suspension, MUCORID Syrup, ULCOFIN Suspension and ZINCELL Syrup. A total of 23 batches of these products are affected. The stated manufacturer of all the affected products is PHARMIX LABORATORIES (PVT.) LTD (Pakistan).
+In November 2023, samples of five different batches of ALERGO syrup were screened for non-compliance by the quality control laboratory of the Maldives Food and Drug Authority (MFDA) in accordance with the thin layer chromatography (TLC)
+test for Diethylene Glycol and Ethylene Glycol for inclusion in The International Pharmacopoeia
+. The routine screening detected potentially unacceptable amounts of diethylene glycol and ethylene glycol as contaminants. Laboratory testing conducted by the Therapeutic Goods Administration of Australia confirmed that all five batches were contaminated with ethylene glycol at levels ranging from 0.62 to 0.82% w/w relative to the accepted limit of not more than 0.10% w/w.
+A follow-on inspection of PHARMIX LABORATORIES (PVT.) LTD was conducted by the Drug Regulatory Authority of Pakistan (DRAP). DRAP’s review of the manufacturing facility and manufacturing records suggests that diethylene glycol/ethylene glycol as contaminants may be present in other products and batches manufactured by PHARMIX LABORATORIES (PVT.) LTD. The safety and quality of these products can, therefore, not be guaranteed.
+As a precautionary measure, PHARMIX LABORATORIES has been instructed by DRAP to stop production of all oral liquid dosage medicines, and on 16 November 2023, DRAP issued a Recall Alert for five different syrup medicines manufactured by PHARMIX LABORATORIES. See
+DRAP Alert No I/S/11-23-40
+.
+The products referenced in this Medical Product Alert No. 8/2023 may have been distributed, through formal and informal markets, to other countries or regions.
+To date, no reports of adverse effects linked to the affected products have been notified to WHO. However, while this Medical Product Alert specifically relates to products referenced in the Annex, out of an abundance of caution, WHO recommends increased vigilance and testing in respect of oral liquid dosage medicines produced by PHARMIX LABORATORIES (PVT.) between December 2021 and December 2022.
+Please refer to the
+Annex 1
+of this Alert for full details of the affected products.
+WHO has previously published six Alerts on other contaminated liquid dosage medicines. Please see
+Medical Product Alert No.6/2022
+,
+Medical Product Alert No.7/2022
+,
+Medical Product Alert No.1/2023
+,
+Medical Product Alert No.4/2023
+,
+Medical Product Alert No.5/2023
+and
+Medical Product Alert No.6/2023
+.
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal.
+The substandard products referenced in this alert are unsafe and their use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered
+mental state and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the public
+WHO
+recommends that you do not use any of the affected products
+. If you, or someone you know, have used these
+products, or suffered an adverse reaction or unexpected side-effect after use, you are advised to seek immediate medical
+advice from a healthcare professional.
+WHO
+requests increased surveillance and diligence
+within the supply chains of countries and regions likely to be affected by these products. Increased surveillance of the informal/unregulated market is also advised. National regulatory
+authorities/health
+authorities are advised to immediately notify WHO if these substandard products are discovered in their
+respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients at risk for contamination with EG/DEG, e.g.
+glycol, sorbitol, and/or glycerin/glycerol,
+are urged to follow GMP requirements
+and to test each container of each incoming
+batch for ethylene glycol and diethylene glycol before using the excipients in the production of medicines.
+Healthcare professionals should report any cases of adverse events suspected to be linked to the use of these contaminated
+medicines to the National Regulatory Authorities/National Pharmacovigilance Centre.
+If you have any information about the manufacture or supply of these products or excipients, please contact WHO
+via
+rapidalert@who.int
+.
+Click to access
+Annex 1: Products subject of WHO Medical Product Alert No. 8/2023
+.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

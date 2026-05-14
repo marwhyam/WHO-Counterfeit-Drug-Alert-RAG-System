@@ -1,0 +1,39 @@
+ALERT NUMBER: 6/2019
+DRUG NAME: hydrochlorothiazide
+ALERT TYPE: falsified
+DATE: 17 April 2019
+COUNTRIES: Cameroon
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/17-04-2019-medical-product-alert-n-6-2019-(english-version)
+TITLE: 17 April 2019Medical product alertMedical Product Alert N° 6/2019: Falsified hydrochlorothiazide
+
+============================================================
+
+This Medical Product Alert relates to confirmed falsified 
+hydrochlorothiazide that has been found to contain glibenclamide instead
+ of hydrochlorothiazide, circulating in the WHO region of Africa. 
+Adverse effects attributed to these products have been reported. Genuine hydrochlorothiazide is used as an antihypertensive and diuretic medicine, whereas glibenclamide is an antidiabetic medicine.
+In March 2019, WHO was informed by a nongovernmental organization in Cameroon that a medicine presenting as hydrochlorothiazide 50mg had caused hypoglycaemia in patients. Preliminary testing indicated that the product did not contain any of the stated
+    active ingredient, hydrochlorothiazide, and glibenclamide had instead been identified. Verification with the stated manufacturer confirmed this product to be falsified. The local health authorities were informed of this incident.
+Table 1: Details of the falsified product hydrochlorothiazide 50mg, subject of WHO medical product alert N°6/2019
+This product is presented in plastic containers of 1000 tablets each. The label is in French and English languages.
+Further confirmatory laboratory analysis has established that the above-mentioned product:
+does not contain any of the expected active ingredient, hydrochlorothiazide, but
+contains approximately 5mg of glibenclamide.
+This represents a risk for patients who are taking hydrochlorothiazide for the treatment of hypertension. It should be noted that hypoglycaemia in patients in Cameroon has been attributed to the use of the above-referenced hydrochlorothiazide with batch
+    number 16G04.
+The label on the plastic container of this product states Sterop as the manufacturer. However, this company has confirmed to WHO that:
+it did not manufacture or supply the above product, and
+the batch number, as well as a number of other features shown on the label, do not correspond to genuine manufacturing records.
+WHO requests increased vigilance within the supply chains of countries likely to be affected by this falsified medical product. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other
+    suppliers of medical products.
+If you are in possession of the above specific product, please do not use.
+If you have taken this falsified medical product, or if you suffer an adverse event or an unexpected lack of efficacy, please seek
+    immediate advice from a qualified healthcare professional, and ensure they report the incident to your local Ministry of Health/National Medicines Regulatory Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from authentic and reliable sources. Their authenticity and condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+National health authorities are asked to immediately notify WHO if this falsified medical product is discovered in their country. If you have any information concerning the manufacture, distribution, or supply of this medical product please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit:
+http://www.who.int/medicines/regulation/ssffc/en/

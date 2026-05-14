@@ -1,0 +1,123 @@
+ALERT NUMBER: 10/2019
+DRUG NAME: Quinine Bisulphate and Quinine Sulphate
+ALERT TYPE: falsified
+DATE: 16 October 2019
+COUNTRIES: Niger, Chad, Nigeria, Uganda, Bulgaria
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/16-10-2019-medical-product-alert-n-10-2019-(english-version)
+TITLE: 16 October 2019Medical product alertMedical Product Alert N° 10/2019: Falsified Quinine Bisulphate and Quinine Sulphate
+
+============================================================
+
+This Medical Product Alert relates to four confirmed 
+falsified products: quinine sulphate circulating in Central African 
+Republic and Chad and quinine bisulphate circulating in Uganda. It 
+should be noted that this is the second WHO Medical Product Alert issued
+ on the same batch number of falsified quinine bisulphate circulating in
+ the African region. Please refer to the previous
+WHO Medical Product Alert N°2/2017
+issued 27 July 2017. Quinine bisulphate and quinine sulphate are listed
+ on the WHO Model List of Essential Medicines for management of severe 
+malaria. This alert compiles details of four different falsified 
+products that have been discovered at different times and locations over
+ the past year. This repeated occurrence highlights the need for 
+additional vigilance in Central and East Africa for such products that 
+display common characteristics and distribution patterns.
+1. QUININE SULPHATE BP 300mg identified in the Central African Republic
+WHO was informed by a non-governmental organization (NGO) that
+ this falsified quinine sulphate was found at patient level in the 
+Central African Republic. At this stage, testing has not yet been 
+conducted. Product details are listed in Table 1 below.
+Table 1: Details of the falsified Quinine Sulphate BP 300mg, subject of WHO medical product alert N°10/2019
+Regarding the stated manufacturer, it should be noted that:
+The packaging indicates the product to be manufactured by “Enitop
+ Pharmaceutical Nig. Ltd.” The National Agency for Food and Drug 
+Administration and Control (NAFDAC) in Nigeria has confirmed that 
+“Enitop Pharmaceutical Nig. Ltd.” is not registered as a manufacturer.
+The packaging indicates the product to be manufactured by “Phamachim Bulgaria”. This manufacturer does not exist.
+It should also be noted that:
+At this stage, no adverse reactions have been reported to WHO.
+The packaging is in French language but displays numerous inconsistencies.
+The registration number stated on the packaging refers to the 
+National Agency for Food and Drug Administration and Control (NAFDAC) in
+ Nigeria. NAFDAC has confirmed that this is falsified.
+2. QUININE SULPHATE BP 800mg identified in the Central African Republic
+WHO was recently informed by a non-governmental organization 
+(NGO) that this falsified quinine sulphate was found at patient level in
+ the Central African Republic. Preliminary testing indicated that the 
+product did not contain any of the stated active ingredient. Product 
+details are listed in Table 2 below.
+Table 2: Details of the falsified Quinine Sulphate BP 800mg, subject of WHO medical product alert N°10/2019
+Regarding the stated manufacturer, it should be noted that:
+The packaging indicates the product to be manufactured by “Phamachim, Bulgaria”. This manufacturer does not exist.
+It should also be noted that:
+Thin layer chromatography did not identify the expected active ingredient.
+At this stage, no adverse reactions have been reported to WHO.
+The packaging is in French language but displays numerous inconsistencies.
+The registration number stated on the packaging refers to the 
+National Agency for Food and Drug Administration and Control (NAFDAC) in
+ Nigeria. NAFDAC has confirmed that this is falsified.
+3. QUININE Bisulphate 300mg. B.P. identified in Uganda
+WHO was recently informed by the Uganda National Drug 
+Authority that falsified quinine bisulphate was found at patient level 
+in Uganda through routine post marketing surveillance on the quality of 
+medical products in the market. Samples were sent for laboratory testing
+ and the results were shared with WHO. Product details are listed in 
+Table 3 below and are contained in the
+Uganda National Drug Authority News Release
+Table 3: Details of the falsified Quinine Bisulphate 300mg. B.P., subject of WHO medical product alert N°10/2019
+The above stated manufacturer has confirmed that:
+They did not manufacture this falsified version.
+The variable details on the product label do not correspond to the genuine manufacturer records.
+It should also be noted that:
+Laboratory analysis did not identify the expected active ingredient.
+At this stage, no adverse reactions have been reported to WHO.
+There are labelling and packaging inconsistencies, including spelling errors.
+4. QUININE SULPHATE BP 300mg identified in Chad
+WHO was informed by a non-governmental organization (NGO) that
+ this falsified quinine sulphate was found at patient level in Chad. 
+Preliminary testing indicated that the product did not contain any of 
+the stated active ingredient. Product details are listed in Table 4 
+below.
+Table 4: Details of the falsified Quinine Sulphate BP 300mg, subject of WHO medical product alert N°10/2019
+Regarding the stated manufacturer, it should be noted that:
+The packaging indicates the product to be manufactured by “Enitop
+ Pharmaceutical Nig. Ltd. The National Agency for Food and Drug 
+Administration and Control (NAFDAC) in Nigeria has confirmed that 
+“Enitop Pharmaceutical Nig. Ltd.” is not registered as a manufacturer.
+The packaging indicates the product to be manufactured by “Phamachim Bulgaria”. This manufacturer does not exist.
+It should also be noted that:
+Thin layer chromatography did not identify the expected active ingredient.
+At this stage, no adverse reactions have been reported to WHO.
+The packaging is in French language but displays numerous inconsistencies.
+The registration number stated on the packaging refers to the 
+National Agency for Food and Drug Administration and Control (NAFDAC) in
+ Nigeria. NAFDAC has confirmed that this is falsified.
+Photographs and advice to the public are available below.
+QUININE SULPHATE BP 300mg, batch 7711006 identified in the Central African Republic
+QUININE SULPHATE BP 800mg, batch number 00952005 identified in the Central African Republic
+QUININE Bisulphate 300mg. B.P., batch number 7422 identified in Uganda
+QUININE SULPHATE BP 300mg, batch 7711004 identified in Chad
+WHO requests increased vigilance within the supply chains of 
+countries likely to be affected by these falsified medical products. 
+Increased vigilance should include hospitals, clinics, health centres, 
+wholesalers, distributors, pharmacies and any other suppliers of medical
+ products.
+If you are in possession of the above specific products, please do not use.
+If you have taken these falsified medical products, or if you suffer an
+ adverse event or an unexpected lack of efficacy, please seek immediate 
+advice from a qualified healthcare professional, and ensure they report 
+the incident to your local Ministry of Health/National Medicines 
+Regulatory Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from authentic and 
+reliable sources. Their authenticity and condition should be carefully 
+checked. Seek advice from a healthcare professional in case of doubt.
+National health authorities are asked to immediately notify 
+WHO if these falsified medical products are discovered in their country.
+ If you have any information concerning the manufacture, distribution, 
+or supply of these medical products please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit:
+http://www.who.int/medicines/regulation/ssffc/en/

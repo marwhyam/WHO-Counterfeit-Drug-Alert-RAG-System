@@ -1,0 +1,28 @@
+ALERT NUMBER: 2/2014
+DRUG NAME: medicines
+ALERT TYPE: falsified
+DATE: 10 October 2014
+COUNTRIES: Niger
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/10-10-2014-medical-product-alert-n-2-2014--falsified-medicines-update
+TITLE: 10 October 2014Medical product alertMedical Product Alert N°2/2014: Falsified medicines UPDATE
+
+============================================================
+
+BACKGROUND
+This Drug alert is in follow up to Drug Alert 131 regarding falsified antimalarial products in circulation in West and Central Africa. Six (6) new falsified medical products (antimalarials and antibiotic) have been discovered in Niger in September 2014.
+All products are found in containers of 1000 tablets designed for hospitals and clinics.
+The labelling on the products is in English and French.
+They also show a previous WHO Essential Drugs Programme logo (no longer in use by WHO).
+These products have been intentionally falsified.
+None of the manufacturers indicated on the labels have manufactured these products and they have all been informed of this incident.
+Details on the falsified products, photographs, and advice can be found
+here
+.
+SUMMARY AND ADVICE FOR ACTION
+All of the products listed
+here
+have been intentionally falsified and have been found in pharmacies of public health facilities but were all purchased from private wholesalers. National regulatory authorities are requested to increase vigilance within the supply chains for products with similar labelling and especially regarding the specific batches listed. In addition, more general vigilance is requested for any medicines bearing the previous WHO Essential Drugs Programme logo (no longer in use by WHO). If discovered, steps should be taken to share rapidly information about these finding with other regulators in the region. In addition, quality control testing of these medicines should be carried out.
+If you have any information or discover any of these products or medicines bearing the previous WHO Essential Drugs Programme logo please contact
+rapidalert@who.int
+.

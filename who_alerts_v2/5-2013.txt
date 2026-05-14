@@ -1,0 +1,25 @@
+ALERT NUMBER: 5/2013
+DRUG NAME: batches of Coartem
+ALERT TYPE: falsified
+DATE: 8 November 2013
+COUNTRIES: Cameroon
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/08-11-2013-medical-product-alert-n-5-2013--falsified-batches-of-coartem-update
+TITLE: 8 November 2013Medical product alertMedical Product Alert N°5/2013: Falsified batches of Coartem UPDATE
+
+============================================================
+
+Background
+This drug alert serves as an update to
+WHO Medical Product Alert N2/2013
+of 3 May 2013 concerning falsified batches of Coartem that were circulating in Western and Central Africa
+Coartem is a fixed-dose Artemesinin based combination therapy (ACT) (Artemether 20mg and Lumefantrine 120mg), used for the treatment of Plasmodium falciparum malaria. The genuine product is manufactured by Novartis and is a WHO pre-qualified medicine.
+On 5 November 2013, Novartis informed WHO of further falsified versions of Coartem recently circulating in Cameroon.
+Product details are available
+here
+.
+Advice
+Some of these batches of falsified Coartem have been found in a number of West and Central African countries, both in hospitals and street markets. Increased vigilance throughout the region is strongly advised for these batches. Coartem should only be obtained from trusted, reliable, and established legal sources. Hospitals, clinics, and pharmacies should check their stocks for these batches and report any suspicions to their national medicines regulatory authority.
+If you have any questions or further information concerning these batches, please, contact
+rapidalert@who.int
+.

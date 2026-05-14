@@ -1,0 +1,29 @@
+ALERT NUMBER: 1/2015
+DRUG NAME: anti-malarial medicine
+ALERT TYPE: falsified
+DATE: 25 February 2015
+COUNTRIES: Togo
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/25-02-2015-medical-product-alert-n-1-2015--falsified-anti-malarial-medicine
+TITLE: 25 February 2015Medical product alertMedical Product Alert N°1/2015: Falsified anti-malarial medicine
+
+============================================================
+
+This Medical Product Alert relates to the confirmed circulation of falsified anti-malarial medicine in Togo and Côte d’Ivoire.
+Following notification received from the Global Fund to Fight AIDS, Tuberculosis and Malaria (the Global Fund), confirmation has been received that the following batch of Artemether/Lumefantrine, purchased in a street market in Abidjan, Côte d’Ivoire is falsified and contains none of the correct active pharmaceutical ingredients.
+In addition, boxes of Artemether/Lumefantrine were discovered in a drug store in Lomé, Togo during an INTERPOL operation.
+Details and photographs of the products are available
+here
+.
+Subsequent analysis conducted on behalf of the Global Fund has confirmed these products to be falsified and contain none of the correct active pharmaceutical ingredients.
+Artemether/Lumefantrine is a fixed dose artemesinin based combination therapy (ACT) and is a first line treatment for plasmodium falciparum malaria.
+The genuine versions of this medicine are manufactured by Ipca Laboratories Ltd. Ipca have confirmed to WHO that they did not manufacture these batches and that they are falsified versions of their products. However, all of the batch numbers mentioned have been copied from genuine Ipca batches of Artemether/Lumefantrine which have since expired and should no longer be available on the market.
+WHO requests increased vigilance within the supply chains of countries likely to be affected by these falsified products. That vigilance should include hospitals, clinics, and pharmacies in addition to drug stores, street markets, and roadside vendors.
+If you have possession of any of these batches of medicine, please consult with a pharmacist or doctor as soon as possible and report the matter to your local medicines regulatory authority.
+National medicines regulatory authorities are asked to notify WHO if these batches are discovered in your country.
+For any further information concerning this alert please, contact
+rapidalert@who.int
+.
+Details and photographs of the products are available
+here
+.

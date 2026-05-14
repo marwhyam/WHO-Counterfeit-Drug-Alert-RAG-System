@@ -1,0 +1,36 @@
+ALERT NUMBER: 5/2024
+DRUG NAME: IMFINZI (durvalumab) injection 500mg /10ml
+ALERT TYPE: falsified
+DATE: 23 December 2024
+COUNTRIES: Pakistan, India, Lebanon
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/23-12-2024-medical-product-alert-n-5-2024
+TITLE: 23 December 2024Medical product alertMedical Product Alert N°5/2024: Falsified IMFINZI (durvalumab) injection 500mg /10ml
+
+============================================================
+
+UPDATE to Medical Product Alert N°5/2024
+Alert Summary
+This WHO Medical Product Alert refers to one batch of falsified IMFINZI (durvalumab) injection 500mg/10ml. The falsified products have been detected in the regulated supply chain in Lebanon, and the unregulated supply chain in Armenia and Türkiye, and were reported to WHO in November 2024. This update (26 August 2025) is based on additional information provided to WHO in 2025, which identified falsified IMFINZI, in three new countries - India, Pakistan and Uzbekistan. WHO also issued
+Medical Product N°3/2025
+identifying three other batches of falsified IMFINZI.
+IMFINZI is a sterile concentrate for infusion. It contains the active pharmaceutical ingredient durvalumab which is a monoclonal antibody. As monotherapy, it is indicated for the treatment of Non-Small Cell Lung Cancer (NSCLC) in adults. It is also used in combination with other medicines to treat other types of cancer.
+Information provided to WHO by AstraZeneca, the genuine manufacturer of IMFINZI, has confirmed that the products identified in this Alert are falsified. Laboratory analysis of samples of the falsified IMFINZI have been carried out by AstraZeneca. The analysis confirmed that some vials of the falsified product contained no active pharmaceutical ingredient.
+How to identify this falsified product
+These products are falsified because they deliberately misrepresent their identity, composition, and source.
+To identify these falsified products, check for the following:
+Genuine IMFINZI lot BAVX is associated with the manufacturing date of 10-2021 and an expiry date of 09-2024.
+A combination of any other dates or lot number should be considered suspicious.
+The 2D data matrix is displayed in the middle instead of the upper-right of the box.
+The face where the 2D data matrix, lot number, manufacturing and expiry dates are displayed should be in black and white, not totally black.
+The rectangle, displaying the strength of the medicine, should be in a paler green colour rather than dark green.
+The metal crimp of the closure around the neck of the vial should not be creased.
+Risks
+These falsified products should be considered unsafe, and their use may be life threatening in some circumstances. The use of these falsified IMFINZI products may lead to ineffective or delayed treatment. It is important to detect and remove any falsified IMFINZI (durvalumab) injections from circulation so as to prevent harm to patients.
+Advice to healthcare professionals, regulatory authorities and the public
+Healthcare professionals should report any incident of adverse effects, lack of expected effects or suspected falsification to the National Regulatory Authorities/National Pharmacovigilance Centre.
+WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities/law enforcement are advised to immediately notify WHO if the falsified product is detected in their country. If you are in possession of any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a healthcare professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.
+Annex: Products subject of WHO Medical Product Alert N°5 /2024. Note additional countries (India, Pakistan, Uzbekistan) identified

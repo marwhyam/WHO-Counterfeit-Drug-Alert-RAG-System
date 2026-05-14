@@ -1,0 +1,49 @@
+ALERT NUMBER: 4/2023
+DRUG NAME: (contaminated) syrup medicines
+ALERT TYPE: substandard
+DATE: 25 April 2023
+COUNTRIES: Australia, India
+WHO REGIONS: WPRO
+SOURCE URL: https://www.who.int/news/item/25-04-2023-medical-product-alert-n-4-2023--substandard-(contaminated)-syrup-medicines
+TITLE: 25 April 2023Medical product alertMedical Product Alert N°4/2023: Substandard (contaminated) syrup medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to a batch of substandard (contaminated) GUAIFENESIN SYRUP TG SYRUP identified in the Marshall Islands and Micronesia (Federated States of) and reported to WHO on 6 April 2023.
+Guaifenesin is an expectorant used to relieve chest congestion and the symptoms of cough.
+Samples of the GUAIFENESIN SYRUP TG SYRUP from the Marshall Islands were analysed by quality control laboratories of the Therapeutic Goods Administration (TGA) of Australia. The analysis found that the product contained unacceptable amounts of diethylene glycol and ethylene glycol as contaminants.
+The stated manufacturer of the affected product is QP PHARMACHEM LTD (Punjab, India). The stated marketer of the product is TRILLIUM PHARMA (Haryana, India). To date, neither the stated manufacturer nor the marketer have provided guarantees to WHO on the safety and quality of these products.
+The product referenced in this Alert may have marketing authorizations in other countries in the Western Pacific region. It may have also been distributed, through informal markets, to other countries or regions.
+Please refer to the
+Annex
+of this Alert for full details of the affected products.
+WHO has previously published three Alerts on other contaminated liquid dosage medicines. Please see
+Medical Product Alert N°6/2022
+,
+Medical Product Alert N°7/2022
+and
+Medical Product Alert N°1/2023
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal.
+The substandard product referenced in this Alert is unsafe and its use, especially in children, may result in serious injury or death. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state and acute kidney injury which may lead to death.
+Advice to regulatory authorities and the
+public
+If you have the affected product, WHO recommends that you do not use it. If you, or someone you know, has or may have used the affected product, or suffered an adverse reaction or unexpected side-effect after use, you are advised to seek immediate medical advice from a healthcare professional.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities are advised to immediately notify WHO if these substandard products are discovered in their respective country.
+Manufacturers of liquid dosage forms, especially syrups that contain excipients including propylene glycol, sorbitol, and/or glycerin/glycerol,
+are urged to test for the presence of contaminants
+such as ethylene glycol and diethylene glycol before use in medicines.
+Healthcare professionals should report any suspicious cases of adverse events linked to the use of these contaminated medicines to the National Regulatory Authorities/ National Pharmacovigilance Centre.
+If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Please see
+Annex
+for details of the affected products referenced in Alert N°4/2023.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

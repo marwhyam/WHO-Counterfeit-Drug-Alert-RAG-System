@@ -1,0 +1,48 @@
+ALERT NUMBER: 11/2019
+DRUG NAME: Amoxicillin + Clavulanic Acid products
+ALERT TYPE: falsified
+DATE: 16 October 2019
+COUNTRIES: 
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/16-10-2019-medical-product-alert-n-11-2019-(english-version)
+TITLE: 16 October 2019Medical product alertMedical Product Alert N° 11/2019: Falsified Amoxicillin + Clavulanic Acid products
+
+============================================================
+
+This Medical Product Alert relates to two confirmed 
+falsified versions of amoxicillin + clavulanic acid products circulating
+ in Haiti, presented under the names “Augmentin and Amoxicillin 
+Clavulanate Potassium” and “Bactoclav”.
+Genuine amoxicillin + clavulanic acid is used to treat a range of bacterial infections and is referenced on the WHO Essential Medicines List as an access group antibiotic.
+WHO was informed by the Haiti Ministère de la Santé Publique et de la Population (MSPP) and Caribbean Public Health Agency’s (CARPHA) VigiCarib network (which is a regional reporting system for pharmacovigilance and post market surveillance),
+    that falsified “Augmentin and Amoxicillin Clavulanate Potassium” and “Bactoclav” were found in a pharmacy in Haiti. At this stage, laboratory testing of these products is being facilitated. Product details are listed in the
+    tables below.
+1. Augmentin and Amoxicillin Clavulanate Potassium
+Table 1: Details of the falsified product Augmentin and Amoxicillin Clavulanate Potassium, subject of WHO medical product alert N°11/2019
+The above stated manufacturer has confirmed that:
+They did not manufacture this falsified version.
+The variable details on the product label do not correspond to the genuine manufacturing records.
+There are labelling and packaging inconsistencies.
+It should also be noted that:
+At this stage, no adverse reactions have been reported to WHO.
+2. Bactoclav
+Table 2: Details of the falsified product Bactoclav, subject of WHO medical product alert N°11/2019
+It should be noted that:
+MYLAN does not manufacture, sub-contract the manufacture nor distribute these products anywhere in the world.
+The packaging is in French language but displays numerous inconsistencies, including spelling errors.
+At this stage, no adverse reactions have been reported to WHO.
+Photographs are available below.
+Augmentin and Amoxicillin Clavulanate Potassium, batch number 35405327A
+Bactoclav, batch number BSTU0039
+Falsified Amoxicillin + Clavulanic Acid products are regularly reported to the WHO Global Surveillance and Monitoring System. Therefore, WHO requests increased vigilance within the supply chains of countries likely to be affected by these falsified medical
+    products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+If you are in possession of the above specific products, please do not use.
+If you have taken these falsified medical products, or if you suffer an adverse event or an unexpected lack of efficacy, please
+    seek immediate advice from a qualified healthcare professional, and ensure they report the incident to your local Ministry of Health/National Medicines Regulatory Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from authentic and reliable sources. Their authenticity and condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+National health authorities are asked to immediately notify WHO if these falsified medical products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of this medical product please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit:
+http://www.who.int/medicines/regulation/ssffc/en/

@@ -1,0 +1,62 @@
+ALERT NUMBER: 5/2019
+DRUG NAME: Meningitis vaccines
+ALERT TYPE: falsified
+DATE: 28 January 2020
+COUNTRIES: Niger
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/28-01-2020-medical-product-alert-n-5-2019-(english-version)
+TITLE: 28 January 2020Medical product alertMedical Product Alert N°5/2019: Falsified Meningitis vaccines
+
+============================================================
+
+This Medical Product Alert relates to the circulation of confirmed falsified Mencevax ACWY in the WHO region of Africa
+.
+Genuine Mencevax ACWY is used to prevent meningitis types A, C, W and Y.
+On 15 March 2019, the Ministry of Public Health in Niger 
+issued a call for vigilance regarding the circulation of falsified 
+Mencevax ACWY vaccines. This WHO medical product alert provides the 
+details of those products which have been confirmed as falsified to 
+date. Inquiries indicate that the supply chain route of these falsified
+vaccines includes other countries in West Africa: as such, increased 
+vigilance is requested in all countries of the region, at all levels of 
+the supply chain.
+A vaccination campaign against meningitis A targeting children from 1 to 7 years old is ongoing in Niger.
+Table 1: Details of falsified Mencevax ACWY vaccines, subject of WHO Alert N°5/2019
+The language on the labels of the above falsified Mencevax ACWY vaccines display text in English language.
+Samples are being sent for laboratory analysis to determine 
+their contents and better assess the risk to public health. This medical
+ product alert n°5/2019 will subsequently be updated and posted on the 
+WHO website once laboratory results are known. No serious adverse 
+reactions attributed to these falsified vaccines have been reported to 
+WHO at this stage.
+Genuine Mencevax ACWY vaccine is manufactured by GSK for 
+Pfizer which has the market authorization rights. With regards to the 
+products detailed in the above table 1, both companies have stated that:
+they did not manufacture the above products
+the batch number and expiry date combinations displayed do not correspond to genuine manufacturing records
+Page 2 shows photographs of the falsified vaccines subject of this alert and page 3 provides advice for healthcare
+professionals and patients.
+WHO requests increased vigilance within the supply chains of 
+countries likely to be affected by these falsified vaccines. Increased 
+vigilance should include hospitals, clinics, health centres, 
+wholesalers, distributors, pharmacies and any other suppliers of 
+vaccines and medical products.
+If you are in possession of the above batches of this vaccine, please do not use.
+If you have used the above batches of this vaccine, or if you suffer an
+ adverse event or an unexpected lack of efficacy, please seek immediate 
+advice from a qualified healthcare professional, and ensure they report 
+the incident to your local Ministry of Health/National Medicines 
+Regulatory Authorities/National Pharmacovigilance Centre.
+All vaccines and medical products must be obtained from 
+authentic and reliable sources. Their authenticity and condition should 
+be carefully checked. Seek advice from a healthcare professional in case
+ of doubt.
+National health authorities are asked to immediately notify 
+WHO if these falsified vaccines are discovered in their country. If you 
+have any information concerning the manufacture, distribution, or supply
+ of these products, please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit:
+http://www.who.int/medicines/regulation/ssffc/en/

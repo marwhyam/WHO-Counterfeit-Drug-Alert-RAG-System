@@ -1,0 +1,37 @@
+ALERT NUMBER: 3/2022
+DRUG NAME: Intratect (Human normal immunoglobulin)
+ALERT TYPE: falsified
+DATE: 27 May 2022
+COUNTRIES: Brazil, India, Egypt
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/27-05-2022-medical-product-alert-n-3-2022-falsified-intratect-human-normal-immunoglobulin
+TITLE: 27 May 2022Medical product alertMedical Product Alert N°3/2022: Falsified Intratect (Human normal immunoglobulin)
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to four falsified lots of Intratect reported from Brazil (September 2021), India (February 2022), Bolivia (Plurinational State of) (April 2022), and Egypt (April 2022).
+Genuine Intratect contains human normal immunoglobulin which is used to treat patients who do not have sufficient antibodies (replacement therapy) or to treat patients with certain inflammatory disorders (immunomodulation).
+The genuine manufacturer of Intratect is Biotest GmbH, who has confirmed that all the products referenced in this alert are falsified, including those labeled “Immunoglobulina G Endovenosa Biotest”. Biotest GmbH does not manufacture any products with this name. The stated lot numbers are also confirmed as falsified.
+The products identified in this alert are falsified on the basis that they deliberately/fraudulently misrepresent their identity and source. Their safety and efficacy are unknown.
+Risks
+Genuine Intratect is administered intravenously. Healthcare professionals should carefully observe administration/infusion to make sure that the rate of infusion is within a clinically acceptable range and that the patient does not suffer an adverse reaction.
+Although laboratory analysis of these falsified products has not been completed, they may pose a particular risk to patients as they are administered intravenously and their sterility, effectiveness, and safety are unknown.
+It is important to detect and remove these falsified products from circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you are in possession of these falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country.
+If you have any information concerning the manufacture and/or distribution of these products, please inform WHO via
+rapidalert@who.int
+Please click
+here
+for the list of falsified products
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

@@ -1,0 +1,38 @@
+ALERT NUMBER: 5/2022
+DRUG NAME: DIPRIVAN
+ALERT TYPE: 
+DATE: 25 August 2022
+COUNTRIES: Colombia, Ecuador
+WHO REGIONS: AMRO
+SOURCE URL: https://www.who.int/news/item/25-08-2022-medical-product-alert-n-5-2022-falsified-diprivan
+TITLE: 25 August 2022Medical product alertMedical Product Alert N°5/2022: DIPRIVAN
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to falsified  DIPRIVAN (propofol), identified in Venezuela (Bolivarian Republic of) in July 2022 and reported to WHO in August 2022.
+DIPRIVAN is indicated for use as a short-acting intravenous general anaesthetic during diagnostic and surgical procedures, and for the sedation of ventilated patients.
+Genuine DIPRIVAN is manufactured by ASTRAZENECA for ASPEN. Both ASPEN and ASTRAZENECA have confirmed that the products referenced in this Alert are falsified on the basis that they deliberately/fraudulently misrepresent their identity and source.
+DIPRIVAN is manufactured for the Latin American market and is authorized for local use by several countries including Colombia, Dominican Rep, and Ecuador.
+The stated Lot numbers are falsified and have never been issued for DIPRIVAN.
+Printing and spelling errors have also been identified and the fill line is potentially inconsistent among the identified vials.
+The safety, sterility, and quality of the falsified products referenced in this alert are unknown.
+DIPRIVAN is administered intravenously and used to sedate patients. These falsified products may therefore pose a particular high risk to patients.
+It is important to detect and remove these falsified products from circulation to prevent harm to patients.
+Advice to regulatory authorities and the public
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you are in possession of these falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country.
+If you have any information concerning the manufacture and/or distribution of these products, please inform WHO via
+rapidalert@who.int
+Please click
+here
+for details and photos of the falsified products referenced in this alert.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

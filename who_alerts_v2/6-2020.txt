@@ -1,0 +1,41 @@
+ALERT NUMBER: 6/2020
+DRUG NAME: Fluzone® Quadrivalent Influenza Vaccine
+ALERT TYPE: falsified
+DATE: 30 October 2020
+COUNTRIES: Mexico
+WHO REGIONS: AMRO
+SOURCE URL: https://www.who.int/news/item/30-10-2020-medical-product-alert-n-6-2020
+TITLE: 30 October 2020Medical product alertMedical Product Alert N°6/2020: Falsified Fluzone® Quadrivalent Influenza Vaccine
+
+============================================================
+
+Falsified Fluzone® Quadrivalent Influenza Vaccine identified in WHO region of the Americas
+Alert Summary
+This WHO Medical Product Alert relates to three different batches of confirmed falsified Fluzone® Quadrivalent Influenza Vaccine identified in Mexico and reported to WHO on 16 October 2020.
+Fluzone® Quadrivalent is a quadrivalent inactivated vaccine for immunization against influenza A virus (H1N1 and H3N2) and B subtypes.
+The products subject of this alert are confirmed falsified because they deliberately/fraudulently misrepresent their identity, composition or source:
+The genuine manufacturer of Fluzone® Quadrivalent - Sanofi Pasteur – has confirmed they did not produce or distribute the products subject of this WHO Medical Product Alert n°6/2020,
+AND the variable data (batch number and expiry dates) of these products do not correspond to their genuine manufacturing records.
+Genuine Fluzone® Quadrivalent has not yet been legitimately distributed in Mexico by Sanofi Pasteur and is not expected on the market before November 2020.
+This falsified product was identified at patient level.
+On 21 September 2020, the
+WHO Strategic Advisory Group of Experts (SAGE) on immunization highlighted
+[1]
+that health workers and older adults are considered as the highest priority risk groups to receive influenza vaccines during the COVID-19 pandemic. It is therefore crucial to identify, as early as possible, any falsified influenza vaccines in circulation.
+Table 1: Products subject of WHO Medical product Alert n°6/2020
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains in countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centers, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed and reliable suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above falsified products, please do not use them.
+If you have used these falsified products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional, and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are identified in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical product Alert n°6/2020
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit:
+https://www.who.int/health-topics/substandard-and-falsified-medical-products
+Email:
+rapidalert@who.int
+[1] Please see
+https://www.who.int/immunization/policy/sage/en/

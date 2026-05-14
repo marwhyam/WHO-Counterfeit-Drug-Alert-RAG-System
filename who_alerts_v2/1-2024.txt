@@ -1,0 +1,69 @@
+ALERT NUMBER: 1/2024
+DRUG NAME: (contaminated) USP/EP PROPYLENE GLYCOL
+ALERT TYPE: both
+DATE: 15 April 2024
+COUNTRIES: Pakistan, United States
+WHO REGIONS: EURO
+SOURCE URL: https://www.who.int/news/item/15-04-2024-medical-product-alert-n-1-2024--falsified-(contaminated)-usp-ep-propylene-glycol
+TITLE: 15 April 2024Medical product alertMedical Product Alert N°1/2024: Falsified (contaminated) USP/EP PROPYLENE GLYCOL
+
+============================================================
+
+Alert Summary
+This WHO Alert refers to falsified DOW USP/EP PROPYLENE GLYCOL detected in Pakistan.
+Authentic DOW USP/EP PROPYLENE GLYCOL is a raw material (excipient) utilized in pharmaceutical and other manufacturing processes, adhering to the standards of the United States and European Pharmacopoeias (USP/EP) for medicinal use.
+Background
+WHO has previously published seven Alerts on contaminated oral liquid medicines. Please see
+Medical Product Alert No.6/2022
+,
+Medical Product Alert No.7/2022
+,
+Medical Product Alert No.1/2023
+,
+Medical Product Alert No.4/2023
+,
+Medical Product Alert No.5/2023
+,
+Medical Product Alert No.6/2023
+and
+WHO Medical Product Alert N°8/2023
+.
+Following
+WHO Medical Product Alert N°8/2023
+Product Alert N°8/2023 in December 2023, the Drug Regulatory Authority of Pakistan (DRAP) investigated potential contamination of oral liquid medicines. Suspect drums of PROPYLENE GLYCOL were identified by DRAP, and samples were tested by Pakistan’s Central Drugs Laboratory. The analyses revealed unacceptable levels of ethylene glycol contamination, ranging from 0.76% to 100%. Between January and March 2024, DRAP issued three Rapid Alerts regarding five contaminated batches of DOW USP/EP PROPYLENE GLYCOL.
+DRAP Alert No I/S/01-24-02 (11 Jan 2024)
+DRAP Alert No I/S/02-24-11 (7 March 24)
+DRAP Alert No I/S/03-24-14 (11 March 2024)
+DOW has confirmed that the raw materials detailed in the DRAP Alerts, and identified in this WHO Alert are falsified and were not manufactured or supplied by DOW. The quality and safety of these excipients therefore cannot be assured.
+The PROPYLENE GLYCOL materials identified in this Alert are considered to have been deliberately and fraudulently mislabelled. They contain high levels of ethylene glycol, which if ingested can be toxic. These raw materials may have been distributed to other countries, including through informal or unregulated markets. Manufacturers of oral liquid medicines may have unknowingly purchased these contaminated raw materials, which may still be in their storage facilities.
+Please refer to
+Annex 1
+of this Alert for full details of the affected products and
+Annex 2
+for available photographs.
+Risks
+Ethylene glycol is toxic to humans when consumed and can prove fatal.
+The falsified raw materials referenced in this Alert should be considered as unsafe and their use in medical products may result in serious injury or death, particularly in children. Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state, and acute kidney injury which may lead to death.
+Advice to manufacturers, distributors, and regulatory authorities
+Manufacturers of medicines should ensure that raw materials are acquired from qualified and approved suppliers.
+Manufacturers of oral liquid medicines, especially syrups containing raw materials at risk of contamination with ethylene glycol (EG) and/or diethylene glycol (DEG), e.g. propylene glycol, sorbitol, and/or glycerin/glycerol,
+are urged to follow WHO good manufacturing practice requirements
+.
+Manufacturers are also advised to test each batch of incoming raw materials for ethylene glycol and diethylene glycol before using as excipients in the production of liquid medicines.
+Analytical methods have been developed for testing paediatric medicines contaminated with DEG/EG. Gas Chromatography (GC) is a suitable and widely used analytical technique. In case of lack of access to GC, in the
+International Pharmacopoeia
+WHO recommends a two-level approach in which suspicious samples are first screened to quickly identify contamination using a semi-quantitative thin-layer chromatography (TLC) method. The suspected contaminated products may then be confirmed by GC.
+WHO advises against distributing or promoting any finished products that may have been manufactured using the potentially affected raw materials, without undergoing further testing. If such products have already been distributed and consumed, it is crucial to urge and guide patients to promptly seek medical advice from a healthcare professional.
+WHO
+requests increased surveillance and diligence
+within the supply chains of countries and regions likely to be affected by these affected raw materials. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities are advised to immediately notify WHO if substandard/falsified raw materials are discovered in their respective country.
+Healthcare professionals should report any cases of adverse events suspected to be linked to the use of contaminated medicines to the National Regulatory Authorities/National Pharmacovigilance Centre. Patients who experience adverse reactions or unexpected side effects after using suspected contaminated products should also seek immediate medical attention from a healthcare professional.
+If you have any information about the manufacture, use or supply of these falsified and contaminated raw materials, please contact WHO via
+rapidalert@who.int
+.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

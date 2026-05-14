@@ -1,0 +1,41 @@
+ALERT NUMBER: 3/2023
+DRUG NAME: DEFITELIO (defibrotide sodium)
+ALERT TYPE: falsified
+DATE: 11 April 2023
+COUNTRIES: 
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/11-04-2023-medical-product-alert-n-3-2023--falsified-defitelio-(defibrotide-sodium)
+TITLE: 11 April 2023Medical product alertMedical Product Alert N°3/2023: Falsified DEFITELIO (defibrotide sodium)
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to a falsified batch of DEFITELIO (defibrotide sodium) identified in the
+United Arab Emirates and publicly reported by the national regulatory authority (in November 2022). The falsified batch was also identified in Kyrgyzstan (in March 2023).
+The falsified products have been identified in UK/Ireland packaging and US packaging.
+Defibrotide is an antithrombotic agent used to treat severe veno-occlusive disease (VOD) in adult and paediatric patients  undergoing haematopoietic (blood) stem cell transplantation. VOD is a condition in which the veins in the liver become blocked and stop the liver working properly.
+The genuine manufacturer of DEFITELIO has confirmed that the products referenced in this Alert are falsified. Laboratory analysis of a sample of the falsified product found it did not contain any of the stated active ingredient. The genuine manufacturer has also advised that:
+The stated batch number 19G19A is not a genuine DEFITELIO batch number.
+The expiry dates are falsified.
+The falsified US pack with batch 19G19A / Exp 01/2025 - the vial inside the pack has a different batch number - M06B466E which is not a genuine batch number.
+Please refer to the
+Annex
+of this Alert for full details of the affected products.
+Risks
+The use of falsified DEFITELIO will result in the ineffective treatment of patients and may pose other serious risks to health because of its intravenous administration and could be life-threatening in some circumstances.
+WHO is not currently aware of any reports of adverse events following the use of the falsified DEFITELIO, however, the safety, sterility, and quality of the falsified products referenced in this alert are unknown.
+Advice to regulatory authorities and the public
+If you have any of the affected products, WHO recommends that you do not use them. If you, or someone you know, has or may have used the affected product, or suffered an adverse reaction or unexpected side-effect after use, you are advised to seek immediate medical advice from a healthcare professional.
+Healthcare professionals should report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre. National regulatory/health authorities are advised to immediately notify WHO if they identify these falsified products.
+If you have any information about the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+.
+Please see
+Annex
+for details of the affected products referenced in Alert N°3/2023.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int

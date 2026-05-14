@@ -1,0 +1,38 @@
+ALERT NUMBER: 3/2024
+DRUG NAME: (contaminated) Oxymorphone Hydrochloride 40mg
+ALERT TYPE: both
+DATE: 5 August 2024
+COUNTRIES: United States
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/05-08-2024-medical-product-alert-n-3-2024--falsified-(contaminated)-oxymorphone-hydrochloride-40mg
+TITLE: 5 August 2024Medical product alertMedical Product Alert N°3/2024: Falsified (contaminated) Oxymorphone Hydrochloride 40mg
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to one batch of falsified Oxymorphone Hydrochloride 40mg. The falsified product was detected in the unregulated supply chain in Finland and reported to WHO in July 2024 by the Finnish Medicines Agency (FIMEA).
+Oxymorphone Hydrochloride is a semi-synthetic opioid used to treat moderate to severe pain. Laboratory analysis of samples of the falsified product, however, found that the tablets contained metonitazene instead.
+Metonitazene is a potent psychoactive synthetic opioid drug, with no officially recognized or authorized medicinal or therapeutic use. It is under international control as a Schedule I narcotic drug following recommendations of the WHO Expert Committee on Drug Dependance in 2021. Small doses can result in serious adverse effects such as respiratory depression, severe sedation, addiction, and an overdose may be fatal.
+How to identify this falsified product
+This product is confirmed as falsified because it deliberately misrepresents its identity, composition, and source.
+The falsified product imitates Oxymorphone Hydrochloride marketed by AUROLIFE PHARMA LLC., who have confirmed that the product, subject of this Alert, is falsified and was not produced by their company.
+To identify this falsified product check for the following:
+The falsified version label does not have a barcode on the bottle.
+The falsified version is labelled 40mg. AUROLIFE PHARMA Oxymorphone Hydrochloride is only available as 5mg and 10mg doses.
+The falsified versions of the tablets lack embossed letters/numbers.
+The falsified product’s label is missing the National Drug Code of the United States of America.
+Please refer to the
+Annex
+of this Alert for full details of the falsified product.
+Risks
+This falsified product may have been intentionally designed to mimic products authorized by the U.S. Food and Drug Administration and marketed by AUROLIFE PHARMA LLC as Oxymorphone Hydrochloride. However, it contains undeclared metonitazene, which poses a significant risk to users due to the high likelihood of adverse events, even in small doses. Metonitazene produces effects similar to other opioids.  Its
+high potency
+carries a high risk of overdose and death. Use of this falsified product may be life-threatening.
+Advice to healthcare professionals, regulatory authorities and the
+public
+Healthcare professionals should report any incident of adverse effects, lack of expected effects or suspected falsification to the National Regulatory Authorities/National Pharmacovigilance Centre.
+WHO advises increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these falsified products. Increased surveillance of the informal/unregulated market is also advised. National regulatory authorities/health authorities/law enforcement are advised to immediately notify WHO if the falsified product is detected in their country.
+If you are in possession any of these products, WHO recommends that you do not use them. If you, or someone you know, has, or may have used these products, or suffered an adverse event or unexpected side-effect after use, seek immediate medical advice from a healthcare professional or contact a poisons control centre.
+All medical products must be obtained from authorized/licensed suppliers. If you have any information about the manufacture or supply of these falsified products, please contact WHO via
+rapidalert@who.int
+.

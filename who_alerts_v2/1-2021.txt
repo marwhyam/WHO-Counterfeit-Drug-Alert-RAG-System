@@ -1,0 +1,37 @@
+ALERT NUMBER: 1/2021
+DRUG NAME: Vitamin A
+ALERT TYPE: falsified
+DATE: 10 March 2021
+COUNTRIES: Canada, Chad
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/10-03-2021-medical-product-alert-n-1-2021-falsified-vitamin-a
+TITLE: 10 March 2021Medical product alertMedical Product Alert N°1/2021: Falsified Vitamin A
+
+============================================================
+
+Falsified VITAMIN A (retinol) identified in WHO region of Africa
+Alert Summary
+This WHO Medical Product Alert refers to two falsified VITAMIN A (retinol) capsules identified in Chad and reported to WHO in November 2020. Laboratory analysis of recovered samples identified that both products are severely degraded and underdosed – containing less than the stated active ingredient. Both falsified products also carry now-defunct logos – the outdated WHO Essential Drugs Programme logo and the outdated Micronutrient Initiative logo. Both falsified products were supplied at patient level and may still be in circulation in the region.
+Vitamin A (retinol) is a micronutrient used for the prevention and treatment of vitamin A deficiency. The most severe effects of this deficiency are seen in young children. Deficiency of vitamin A is associated with significant morbidity and mortality from common childhood infections and is the world’s leading preventable cause of childhood blindness. Vitamin A deficiency also contributes to maternal mortality and other poor outcomes of pregnancy and lactation. Retinol is listed on the WHO Model List of Essential Medicines for Children.
+The public health threat of falsified vitamin A (retinol) particularly affects vulnerable children already suffering from vitamin A deficiency. It is important to detect and remove any falsified vitamin A (retinol) from circulation so as to prevent harm to patients.
+The products identified in this Alert are confirmed falsified on the basis that they deliberately/fraudulently misrepresent their identity, composition, or source:
+the variable data (batch      number and expiry dates) of these products do not correspond to genuine      manufacturing records;
+the manufacturing and expiry      dates of these products have been deliberately altered to extend their      shelf-life;
+laboratory analysis of both products have confirmed both are underdosed, severely degraded, and do not comply with specifications.
+Table 1: Products subject of WHO Medical Product Alert N°1/2021
+Genuine VITAMIN A (RETINOL), batch UI4004, was manufactured by Accucaps Industries Limited in September 2009, with an expiry date of September 2012. The falsified product identified in the above table and shown in the photos below has been tampered with and the manufacturing and expiry dates have been altered. Laboratory analysis has determined that the capsules had degraded and contained only 68.6% of the stated active ingredient. Furthermore, two obsolete and outdated logos (WHO Essential Drugs Programme and Micronutrient Initiative) are found on the label.
+Genuine VITAMIN A (RETINOL) batch 39090439, was manufactured by Banner Pharmacaps (Canada) Ltd, with an expiry in 2009. The falsified product identified in the above table and shown in the photos below has been tampered with and the manufacturing and expiry dates have been altered. Laboratory analysis has determined that the capsules had degraded and contained only 64.4% of the stated active ingredient. Furthermore, two obsolete and outdated logos (WHO Essential Drugs Programme and Micronutrient Initiative) are found on the label.
+Advice to regulatory authorities and the public
+WHO requests increased vigilance within the supply chains of countries and regions likely to be affected by these falsified products. Increased vigilance should include hospitals, clinics, health centres, wholesalers, distributors, pharmacies and any other suppliers of medical products.
+All medical products must be obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional in case of doubt.
+If you are in possession of the above falsified products, please do not use them.
+If you have used these products, or you suffered an adverse reaction/event having used these products, you are advised to seek immediate medical advice from a qualified healthcare professional, and to report the incident to the National Regulatory Authorities/National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these falsified products are discovered in their country. If you have any information concerning the manufacture, distribution, or supply of these products, please contact
+rapidalert@who.int
+Table 2: Photographs of products subject of WHO Medical Product Alert N°1/2021
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit:
+www.who.int/medicines/regulation/ssffc/en/
+Email:
+rapidalert@who.int

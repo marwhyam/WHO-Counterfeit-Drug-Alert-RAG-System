@@ -1,0 +1,60 @@
+ALERT NUMBER: 9/2019
+DRUG NAME: Augmentin
+ALERT TYPE: falsified
+DATE: 20 August 2019
+COUNTRIES: Uganda, Kenya
+WHO REGIONS: AFRO
+SOURCE URL: https://www.who.int/news/item/20-08-2019-medical-product-alert-n-9-2019-(english-version)
+TITLE: 20 August 2019Medical product alertMedical Product Alert N° 9/2019: Falsified Augmentin
+
+============================================================
+
+This Medical Product Alert relates to confirmed falsified 
+Augmentin (Amoxicillin trihydrate – Potassium clavulanate) found in 
+Uganda and Kenya. It should be noted that this is the second WHO 
+Medical Product Alert issued on falsified Augmentin in the African 
+region. The first
+WHO Medical Product Alert N°2/2018
+was issued on 2 March 2018.
+Genuine amoxicillin + clavulanic acid is used to treat a range
+ of bacterial infections and is listed on the WHO Essential Medicines 
+List as an access group antibiotic.
+WHO was recently informed by the Uganda National Drug 
+Authority that falsified Augmentin was found at patient level in Uganda 
+having been discovered through routine post marketing surveillance on 
+the quality of medical products in the market. Samples were sent for 
+quality assurance laboratory testing and revealed none of the expected 
+active ingredients. The Kenya Pharmacy and Poisons Board confirmed that 
+the same batch of falsified Augmentin had previously been found at 
+patient level in Kenya.
+Product details are listed in Table 1 below and contained in the
+Uganda National Drug Authority News Release.
+It should be noted that:
+The stated manufacturer has confirmed they did not manufacture this falsified version.
+Quality assurance laboratory analysis did not identify any of the expected active ingredients.
+At this stage, no adverse reactions have been reported to WHO.
+There are labelling and packaging inconsistencies.
+Photographs and advice to the public are available below.
+WHO requests increased vigilance within the supply chains of 
+countries likely to be affected by this falsified medical product. 
+Increased vigilance should include hospitals, clinics, health centres, 
+wholesalers, distributors, pharmacies and any other suppliers of medical
+ products.
+If you are in possession of the above specific product, please do not use.
+If you have taken this falsified medical product, or if you suffer an 
+adverse event or an unexpected lack of efficacy, please seek immediate 
+advice from a qualified healthcare professional, and ensure they report 
+the incident to your local Ministry of Health/National Medicines 
+Regulatory Authorities/National Pharmacovigilance Centre.
+All medical products must be obtained from authentic and 
+reliable sources. Their authenticity and condition should be carefully 
+checked. Seek advice from a healthcare professional in case of doubt.
+National health authorities are asked to immediately notify 
+WHO if this falsified medical product is discovered in their country. If
+ you have any information concerning the manufacture, distribution, or 
+supply of this medical product please contact
+rapidalert@who.int
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For further information, please visit:
+http://www.who.int/medicines/regulation/ssffc/en/

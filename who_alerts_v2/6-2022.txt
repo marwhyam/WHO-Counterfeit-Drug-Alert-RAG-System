@@ -1,0 +1,48 @@
+ALERT NUMBER: 6/2022
+DRUG NAME: (contaminated) paediatric medicines
+ALERT TYPE: substandard
+DATE: 5 October 2022
+COUNTRIES: India, Mali, Gambia
+WHO REGIONS: 
+SOURCE URL: https://www.who.int/news/item/05-10-2022-medical-product-alert-n-6-2022-substandard-(contaminated)-paediatric-medicines
+TITLE: 5 October 2022Medical product alertMedical Product Alert N°6/2022: Substandard (contaminated) paediatric medicines
+
+============================================================
+
+Alert Summary
+This WHO Medical Product Alert refers to four substandard products, identified in The Gambia and reported to WHO in September 2022. Substandard medical products are products that fail to meet either their quality standards or specifications and are, therefore "out of specification"[1].
+The four products are
+Promethazine Oral Solution,
+Kofexmalin Baby Cough Syrup
+,
+Makoff Baby Cough Syrup
+and
+Magrip N Cold Syrup
+. The stated manufacturer of these products is Maiden Pharmaceuticals Limited (Haryana, India). To date, the stated manufacturer has not provided guarantees to WHO on the safety and quality of these products.
+Laboratory analysis of samples of each of the four products confirms that they contain unacceptable amounts of diethylene glycol and ethylene glycol as contaminants. To date, these four products have been identified in The Gambia, but may have been distributed, through informal markets, to other countries or regions.
+[1] WHO definitions:
+https://www.who.int/teams/regulation-prequalification/incidents-and-SF/background/definitions
+Risks
+Diethylene glycol and ethylene glycol are toxic to humans when consumed and can prove fatal
+Toxic effects can include abdominal pain, vomiting, diarrhoea, inability to pass urine, headache, altered mental state, and acute kidney injury which may lead to death.
+All batches of these products should be considered unsafe until they can be analyzed by the relevant National Regulatory Authorities.
+The substandard products referenced in this alert are unsafe and their use, especially in children, may result in serious injury or death.
+Advice to regulatory authorities and the public
+It is important to detect and remove these substandard products from circulation to prevent harm to patients.
+WHO requests increased surveillance and diligence within the supply chains of countries and regions likely to be affected by these products. Increased surveillance of the informal/unregulated market is also advised.
+All medical products must be approved and obtained from authorized/licensed suppliers. The products’ authenticity and physical condition should be carefully checked. Seek advice from a healthcare professional when in doubt.
+If you have these substandard products,
+please DO NOT use them
+. If you, or someone you know, have used these products or suffered any adverse reaction/event after use, you are advised to seek immediate medical advice from a qualified healthcare professional and report the incident to the National Regulatory Authority or National Pharmacovigilance Centre.
+National regulatory/health authorities are advised to immediately notify WHO if these substandard products are discovered in their respective country. If you have any information concerning the manufacture or supply of these products, please contact WHO via
+rapidalert@who.int
+Please click
+here
+for details and photos of the substandard products referenced in Alert N°6/2022.
+Alert n°6/2022 may be updated at a later stage as and when necessary.
+WHO Global Surveillance and Monitoring System
+for Substandard and Falsified Medical Products
+For more information, please visit our
+website
+Email:
+rapidalert@who.int
